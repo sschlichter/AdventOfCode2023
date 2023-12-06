@@ -11,7 +11,6 @@ class Day3 extends DayBase
         for($i = 0; $i < count($fileArray); $i++){
             for($j = 0; $j<strlen($fileArray[$i]); $j++){
                 if(preg_match('/\d/', $fileArray[$i][$j])){
-                    //$this->info("Found! " . $fileArray[$i][$j]);
                     $startIndex = $j;
                     $endIndex = $j;
                     $numString = $fileArray[$i][$j];
