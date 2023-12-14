@@ -1,0 +1,2000 @@
+"Processing line .#??..#??.?. 3,1,1,1" // app/Day12.php:235
+"Result = 81" // app/Day12.php:261
+"Processing line ???.##??#??????#???# 1,13,1" // app/Day12.php:235
+"Result = 243" // app/Day12.php:261
+"Processing line .??#.?#??#????#?? 2,4,1,1,1" // app/Day12.php:235
+"Result = 512" // app/Day12.php:261
+"Processing line ???#??#.???#.?#??#?# 4,2,1,2,1,4" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ????#?##???#.??.? 2,2,6,1" // app/Day12.php:235
+"Result = 22293" // app/Day12.php:261
+"Processing line .?????#???.###.##? 7,3,2" // app/Day12.php:235
+"Result = 243" // app/Day12.php:261
+"Processing line .###?..#??????#???? 4,8,1" // app/Day12.php:235
+"Result = 768" // app/Day12.php:261
+"Processing line ??????????????? 1,1,1,2,1" // app/Day12.php:235
+"Result = 126410606437752" // app/Day12.php:261
+"Processing line ???.????????#? 1,3,1,1" // app/Day12.php:235
+"Result = 716713983" // app/Day12.php:261
+"Processing line ???.#..?#.?#?#??#?. 2,1,1,5,1" // app/Day12.php:235
+"Result = 162" // app/Day12.php:261
+"Processing line .?..??#.????. 1,3,1,2" // app/Day12.php:235
+"Result = 16" // app/Day12.php:261
+"Processing line .#?.??#?????##.# 1,2,1,3,1" // app/Day12.php:235
+"Result = 243" // app/Day12.php:261
+"Processing line ?###????.#?? 5,1,2" // app/Day12.php:235
+"Result = 5606" // app/Day12.php:261
+"Processing line ?#??.????? 2,4" // app/Day12.php:235
+"Result = 2500" // app/Day12.php:261
+"Processing line ?.#????#?????#??#?? 1,6,1,4,1" // app/Day12.php:235
+"Result = 40793" // app/Day12.php:261
+"Processing line #????????#?#?? 1,7,1,1" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ?#??.?????? 3,1,1" // app/Day12.php:235
+"Result = 35042192" // app/Day12.php:261
+"Processing line ?..??#?###?? 1,6" // app/Day12.php:235
+"Result = 3888" // app/Day12.php:261
+"Processing line ???.?.??#??##?? 1,1,1,5,1" // app/Day12.php:235
+"Result = 71750" // app/Day12.php:261
+"Processing line #???#.?????? 2,1,3,1" // app/Day12.php:235
+"Result = 768" // app/Day12.php:261
+"Processing line ?###??.??.?#???..? 4,1,2,1,1,1" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ?.#???#?.?? 2,1,1" // app/Day12.php:235
+"Result = 3898" // app/Day12.php:261
+"Processing line #??##????##??????#? 7,5,2" // app/Day12.php:235
+"Result = 9604" // app/Day12.php:261
+"Processing line ????#????????????# 1,6,1,1,2" // app/Day12.php:235
+"Result = 554539901" // app/Day12.php:261
+"Processing line #?.?.##???? 1,1,5" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line .?????.?#???????? 1,2,2,2,1" // app/Day12.php:235
+"Result = 74687282240" // app/Day12.php:261
+"Processing line #??.???#?.????? 2,5,1,1" // app/Day12.php:235
+"Result = 39366" // app/Day12.php:261
+"Processing line ?????????.#???. 6,2" // app/Day12.php:235
+"Result = 2500" // app/Day12.php:261
+"Processing line ?????????? 1,1,4" // app/Day12.php:235
+"Result = 3268760" // app/Day12.php:261
+"Processing line ?#??#??#?## 1,7" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ????#?##???#? 1,6,1,1" // app/Day12.php:235
+"Result = 16" // app/Day12.php:261
+"Processing line ??#??#.???#?????? 1,1,1,7,1" // app/Day12.php:235
+"Result = 768" // app/Day12.php:261
+"Processing line ?????##?.?#??. 1,2,4" // app/Day12.php:235
+"Result = 3104" // app/Day12.php:261
+"Processing line ???##????###????. 4,7" // app/Day12.php:235
+"Result = 59049" // app/Day12.php:261
+"Processing line ?.?.?.?#???? 1,1,6" // app/Day12.php:235
+"Result = 768" // app/Day12.php:261
+"Processing line ???..??.????.###??. 2,2,2,5" // app/Day12.php:235
+"Result = 39366" // app/Day12.php:261
+"Processing line ????##??#????? 1,7,1,1" // app/Day12.php:235
+"Result = 25688" // app/Day12.php:261
+"Processing line ???..????#??? 2,6" // app/Day12.php:235
+"Result = 77322" // app/Day12.php:261
+"Processing line .??.????????. 1,2" // app/Day12.php:235
+"Result = 460624174" // app/Day12.php:261
+"Processing line ?.#?.????? 1,2" // app/Day12.php:235
+"Result = 70708" // app/Day12.php:261
+"Processing line ??????.#???#? 2,5" // app/Day12.php:235
+"Result = 12005" // app/Day12.php:261
+"Processing line ?????#.###???#.???# 6,7,1,1" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ##.????##..#??#?. 2,6,1,1" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ?????.??.?????????. 1,6" // app/Day12.php:235
+"Result = 139886386" // app/Day12.php:261
+"Processing line ??????..#?# 4,3" // app/Day12.php:235
+"Result = 243" // app/Day12.php:261
+"Processing line #??????#??..?#? 10,2" // app/Day12.php:235
+"Result = 162" // app/Day12.php:261
+"Processing line ?.?????.?#??? 1,2" // app/Day12.php:235
+"Result = 3241876" // app/Day12.php:261
+"Processing line ???#??????.. 2,4" // app/Day12.php:235
+"Result = 37952" // app/Day12.php:261
+"Processing line .#?#???####??.?#?##? 12,5" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ?.?????##??? 3,4" // app/Day12.php:235
+"Result = 2571" // app/Day12.php:261
+"Processing line ?###?###????????# 10,3" // app/Day12.php:235
+"Result = 1423" // app/Day12.php:261
+"Processing line .?????????#? 1,5" // app/Day12.php:235
+"Result = 702004" // app/Day12.php:261
+"Processing line #?##????#???? 1,2,2,1" // app/Day12.php:235
+"Result = 10984" // app/Day12.php:261
+"Processing line .??????.??#???. 1,2,1,1,1" // app/Day12.php:235
+"Result = 588457968" // app/Day12.php:261
+"Processing line ??#.?#.????# 1,2,1,1" // app/Day12.php:235
+"Result = 1783" // app/Day12.php:261
+"Processing line ???????.?#??????.?? 2,1,1,8,1" // app/Day12.php:235
+"Result = 405000" // app/Day12.php:261
+"Processing line ???#??.?#???? 5,2,2" // app/Day12.php:235
+"Result = 39366" // app/Day12.php:261
+"Processing line ?#??????###???. 2,8" // app/Day12.php:235
+"Result = 16807" // app/Day12.php:261
+"Processing line .??????#???????#? 1,12" // app/Day12.php:235
+"Result = 47061" // app/Day12.php:261
+"Processing line ??..???#?#??? 1,6" // app/Day12.php:235
+"Result = 757856" // app/Day12.php:261
+"Processing line ?.??????.. 1,1,3" // app/Day12.php:235
+"Result = 3888" // app/Day12.php:261
+"Processing line ??#??.?#??#. 1,1,1,1" // app/Day12.php:235
+"Result = 1182" // app/Day12.php:261
+"Processing line ?#?????.??????. 1,1,6" // app/Day12.php:235
+"Result = 2500" // app/Day12.php:261
+"Processing line .#?#?????#?#???#?.?? 5,9" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ???#???#.#?##????? 5,1,7,1" // app/Day12.php:235
+"Result = 162" // app/Day12.php:261
+"Processing line ?#.??#??#?..?? 1,5,1" // app/Day12.php:235
+"Result = 9604" // app/Day12.php:261
+"Processing line #???#????#?.? 1,1,6,1" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ????????.#? 4,1" // app/Day12.php:235
+"Result = 27345" // app/Day12.php:261
+"Processing line ????#?#?#??.??.?? 8,1" // app/Day12.php:235
+"Result = 1849552" // app/Day12.php:261
+"Processing line ???#?????#?#?..#? 4,1,4,1" // app/Day12.php:235
+"Result = 59049" // app/Day12.php:261
+"Processing line ??.??????#??.?#??#. 1,3,1,1" // app/Day12.php:235
+"Result = 8361660" // app/Day12.php:261
+"Processing line .????????????? 1,2,2,1" // app/Day12.php:235
+"Result = 297630681653" // app/Day12.php:261
+"Processing line #.?#?#?#?.??? 1,6,1" // app/Day12.php:235
+"Result = 7776" // app/Day12.php:261
+"Processing line ?#??#??..?#?? 3,2,3" // app/Day12.php:235
+"Result = 512" // app/Day12.php:261
+"Processing line ..#?.?#??#?# 2,6" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ???#?.?..???## 3,1,2" // app/Day12.php:235
+"Result = 10678" // app/Day12.php:261
+"Processing line ?????.?#?.???## 3,3,3" // app/Day12.php:235
+"Result = 1875" // app/Day12.php:261
+"Processing line ??.?????..????? 3,5" // app/Day12.php:235
+"Result = 62208" // app/Day12.php:261
+"Processing line ?.?????##? 1,1,2" // app/Day12.php:235
+"Result = 102487" // app/Day12.php:261
+"Processing line ?.??#.#????#???.. 1,3,1,1,4" // app/Day12.php:235
+"Result = 3888" // app/Day12.php:261
+"Processing line ??#??#?#?##????.# 3,3,6,1" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ?.?.?.?####???.#. 1,8,1" // app/Day12.php:235
+"Result = 768" // app/Day12.php:261
+"Processing line ?##?????#?.?#.. 3,1,1,2,1" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ???#???????.#. 2,4,1" // app/Day12.php:235
+"Result = 24576" // app/Day12.php:261
+"Processing line ????.??.?#???? 1,3" // app/Day12.php:235
+"Result = 2468660" // app/Day12.php:261
+"Processing line .?#?#?#??????##??? 2,11,2" // app/Day12.php:235
+"Result = 16" // app/Day12.php:261
+"Processing line ??.?#?.#?. 2,2,2" // app/Day12.php:235
+"Result = 512" // app/Day12.php:261
+"Processing line ????#...?#???# 4,5" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line .??..???#??#?#? 2,1,1,3" // app/Day12.php:235
+"Result = 512" // app/Day12.php:261
+"Processing line ????#.?????? 3,6" // app/Day12.php:235
+"Result = 81" // app/Day12.php:261
+"Processing line ????.?????? 1,1,2" // app/Day12.php:235
+"Result = 6218772671" // app/Day12.php:261
+"Processing line ????#?????.?# 1,2,2,2" // app/Day12.php:235
+"Result = 1563852" // app/Day12.php:261
+"Processing line .?#?????.??.? 3,1,1,1" // app/Day12.php:235
+"Result = 4313088" // app/Day12.php:261
+"Processing line ???#??.?#.??. 1,3,2,2" // app/Day12.php:235
+"Result = 3888" // app/Day12.php:261
+"Processing line ?##???????#???????# 2,9,1" // app/Day12.php:235
+"Result = 3125" // app/Day12.php:261
+"Processing line ?##?????????.?? 8,1" // app/Day12.php:235
+"Result = 2963216" // app/Day12.php:261
+"Processing line .#???????.??#???? 1,4,4" // app/Day12.php:235
+"Result = 455625" // app/Day12.php:261
+"Processing line .?#?.#??.? 1,1,1" // app/Day12.php:235
+"Result = 1182" // app/Day12.php:261
+"Processing line ??.?#??????#? 4,3" // app/Day12.php:235
+"Result = 5184" // app/Day12.php:261
+"Processing line ??#?#??#??.?? 3,2,1" // app/Day12.php:235
+"Result = 49216" // app/Day12.php:261
+"Processing line .#?.???##? 1,5" // app/Day12.php:235
+"Result = 162" // app/Day12.php:261
+"Processing line ?????.#?.???#? 2,1,1,4" // app/Day12.php:235
+"Result = 126324" // app/Day12.php:261
+"Processing line ##????#??? 4,1,1" // app/Day12.php:235
+"Result = 648" // app/Day12.php:261
+"Processing line ?????????# 1,2,3" // app/Day12.php:235
+"Result = 377199" // app/Day12.php:261
+"Processing line ??#?#?????##? 4,3" // app/Day12.php:235
+"Result = 1024" // app/Day12.php:261
+"Processing line ?#.???##?#????#?##. 1,12" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line #.?##???#???..??.?? 1,6,1,2,1" // app/Day12.php:235
+"Result = 1024" // app/Day12.php:261
+"Processing line ?#????#??#.#?.##?# 5,1,1,1,4" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ?#????#.#??#..? 1,3,1,1,1" // app/Day12.php:235
+"Result = 16" // app/Day12.php:261
+"Processing line ??###?.?.????. 5,2" // app/Day12.php:235
+"Result = 7776" // app/Day12.php:261
+"Processing line .????????#.#? 5,2,1" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line .?.#.???..??#.?? 1,1,1,3,1" // app/Day12.php:235
+"Result = 1313433" // app/Day12.php:261
+"Processing line #????????.??????. 4,4,2,1,1" // app/Day12.php:235
+"Result = 81" // app/Day12.php:261
+"Processing line ?.??????#? 3,3" // app/Day12.php:235
+"Result = 3888" // app/Day12.php:261
+"Processing line ...?#.#.???##? 2,1,1,2" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ??????????#.???.?#?? 7,1,1,1" // app/Day12.php:235
+"Result = 139051655" // app/Day12.php:261
+"Processing line .????##?#??.???#???? 7,5" // app/Day12.php:235
+"Result = 248832" // app/Day12.php:261
+"Processing line ??.#?.???? 1,2,2" // app/Day12.php:235
+"Result = 122107" // app/Day12.php:261
+"Processing line ?.#??#??#?? 1,4,2" // app/Day12.php:235
+"Result = 1250" // app/Day12.php:261
+"Processing line ????#?????? 1,4,2" // app/Day12.php:235
+"Result = 1280088" // app/Day12.php:261
+"Processing line ??.???????? 1,1,2" // app/Day12.php:235
+"Result = 6157148099" // app/Day12.php:261
+"Processing line ??#????????#??#???? 3,3,7" // app/Day12.php:235
+"Result = 10176148" // app/Day12.php:261
+"Processing line ?????????##?.??#?. 1,1,2,1,3,2" // app/Day12.php:235
+"Result = 41472" // app/Day12.php:261
+"Processing line ??#????????????.??? 2,11" // app/Day12.php:235
+"Result = 108161" // app/Day12.php:261
+"Processing line ??#?.?#???#?##????. 4,3,4,1" // app/Day12.php:235
+"Result = 124416" // app/Day12.php:261
+"Processing line ????.???????.?? 1,3" // app/Day12.php:235
+"Result = 2291164526" // app/Day12.php:261
+"Processing line ????#.##?? 1,1,4" // app/Day12.php:235
+"Result = 243" // app/Day12.php:261
+"Processing line #?????#?????.##?## 2,7,5" // app/Day12.php:235
+"Result = 243" // app/Day12.php:261
+"Processing line #??.??..?#?#.? 2,1,4" // app/Day12.php:235
+"Result = 1250" // app/Day12.php:261
+"Processing line .??.??.?.?????##? 1,1,1,4" // app/Day12.php:235
+"Result = 10579702048" // app/Day12.php:261
+"Processing line ??.???????#??? 1,7,1" // app/Day12.php:235
+"Result = 2630875" // app/Day12.php:261
+"Processing line .#.??.?##???#.? 1,1,3,2,1" // app/Day12.php:235
+"Result = 16384" // app/Day12.php:261
+"Processing line #??.??##??.?#?.#?#?? 3,4,1,4" // app/Day12.php:235
+"Result = 3888" // app/Day12.php:261
+"Processing line ???..?????????.# 2,1,3,1,1" // app/Day12.php:235
+"Result = 10580880" // app/Day12.php:261
+"Processing line ??#.?????#?##.?#.# 2,6,2,1,1" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ?#?.?.#??#?? 1,6" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ?###????#?.? 6,2" // app/Day12.php:235
+"Result = 7203" // app/Day12.php:261
+"Processing line ?.?????????????.?? 1,1,1,1,4,1" // app/Day12.php:235
+"Result = 165278378448" // app/Day12.php:261
+"Processing line ????.?#?##??#??. 1,1,5,2" // app/Day12.php:235
+"Result = 2518569" // app/Day12.php:261
+"Processing line ???????.????# 1,1,1,3" // app/Day12.php:235
+"Result = 931486260" // app/Day12.php:261
+"Processing line ##???.????#???# 2,1,1,1,5" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line .#?##???####?.??#.?? 4,5,2" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ????????#?#?.?#?? 1,1,3,1,3" // app/Day12.php:235
+"Result = 1649040" // app/Day12.php:261
+"Processing line ?.?????#?. 2,2" // app/Day12.php:235
+"Result = 66525" // app/Day12.php:261
+"Processing line ?#???????????#.????? 7,2,1,1,1" // app/Day12.php:235
+"Result = 4790935486" // app/Day12.php:261
+"Processing line ????????#..##. 1,2,2,2" // app/Day12.php:235
+"Result = 114008" // app/Day12.php:261
+"Processing line #?#?##?#??. 3,5" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ???#????###????????. 17,1" // app/Day12.php:235
+"Result = 81" // app/Day12.php:261
+"Processing line .????#???## 1,3,4" // app/Day12.php:235
+"Result = 256" // app/Day12.php:261
+"Processing line ??####??#??#?#?#?#?? 6,6,4" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ??????#????.?.?? 1,3,1,1,1" // app/Day12.php:235
+"Result = 142553731834" // app/Day12.php:261
+"Processing line ..?##?.?.?. 3,1" // app/Day12.php:235
+"Result = 5184" // app/Day12.php:261
+"Processing line .???####?????#? 8,1" // app/Day12.php:235
+"Result = 1024" // app/Day12.php:261
+"Processing line .???????#?..??.?# 1,3,1,2,1" // app/Day12.php:235
+"Result = 243" // app/Day12.php:261
+"Processing line ??.?#?????? 1,2,2" // app/Day12.php:235
+"Result = 15592195" // app/Day12.php:261
+"Processing line ??#???#..?#?????#??? 4,1,5,1,2" // app/Day12.php:235
+"Result = 5184" // app/Day12.php:261
+"Processing line ??#?...#?? 4,1" // app/Day12.php:235
+"Result = 16" // app/Day12.php:261
+"Processing line ??????.#?#?##??.?? 2,7" // app/Day12.php:235
+"Result = 20480" // app/Day12.php:261
+"Processing line .???????##???. 1,9" // app/Day12.php:235
+"Result = 14763" // app/Day12.php:261
+"Processing line ?..#.????#??#???#?? 1,3,9" // app/Day12.php:235
+"Result = 256" // app/Day12.php:261
+"Processing line ?#??????????#???.#?? 4,3,1,1,3" // app/Day12.php:235
+"Result = 5725960" // app/Day12.php:261
+"Processing line .?????#???.??#?.?. 4,1" // app/Day12.php:235
+"Result = 1024" // app/Day12.php:261
+"Processing line ??#.?##?#??##??#?#? 1,1,12,1" // app/Day12.php:235
+"Result = 16" // app/Day12.php:261
+"Processing line ?##??#??##???#.?.. 2,9" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line #??????#??? 3,4" // app/Day12.php:235
+"Result = 26244" // app/Day12.php:261
+"Processing line ##???.?#..#.?# 5,2,1,2" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ???.?.???# 2,1,3" // app/Day12.php:235
+"Result = 512" // app/Day12.php:261
+"Processing line ?.?????.?? 2,2" // app/Day12.php:235
+"Result = 658665" // app/Day12.php:261
+"Processing line ???.?????#?.?????? 1,2,2" // app/Day12.php:235
+"Result = 152511820837" // app/Day12.php:261
+"Processing line .#????#????.? 1,6" // app/Day12.php:235
+"Result = 4800" // app/Day12.php:261
+"Processing line ????.#.?#??????#???? 1,1,1,1,2,7" // app/Day12.php:235
+"Result = 1875" // app/Day12.php:261
+"Processing line ?.???.#.??##???#?? 1,1,1,1,8" // app/Day12.php:235
+"Result = 125951" // app/Day12.php:261
+"Processing line ??????.?#? 4,2" // app/Day12.php:235
+"Result = 17958" // app/Day12.php:261
+"Processing line #??..?????#? 2,1,2,1" // app/Day12.php:235
+"Result = 892" // app/Day12.php:261
+"Processing line ?##.#.????##?# 2,1,2,4" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ????????#???. 9,1" // app/Day12.php:235
+"Result = 3387" // app/Day12.php:261
+"Processing line ??..????.? 1,4" // app/Day12.php:235
+"Result = 512" // app/Day12.php:261
+"Processing line ????#???#?.? 9,1" // app/Day12.php:235
+"Result = 162" // app/Day12.php:261
+"Processing line #???.??????? 3,1,2,1" // app/Day12.php:235
+"Result = 64898" // app/Day12.php:261
+"Processing line .??????.?##??#. 6,3,1" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line #.?.?#????#??#? 1,2,1,2,2" // app/Day12.php:235
+"Result = 13645" // app/Day12.php:261
+"Processing line ##??##?.??? 6,1" // app/Day12.php:235
+"Result = 243" // app/Day12.php:261
+"Processing line ?????.????#???? 1,1,6" // app/Day12.php:235
+"Result = 1386431664" // app/Day12.php:261
+"Processing line #??.????????????#?#. 2,1,1,4,3" // app/Day12.php:235
+"Result = 445084030" // app/Day12.php:261
+"Processing line ???#??..?????#?## 5,3,2" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ?##??????.??.? 4,4,1" // app/Day12.php:235
+"Result = 7203" // app/Day12.php:261
+"Processing line ???#?????#?.? 2,1,3" // app/Day12.php:235
+"Result = 237274" // app/Day12.php:261
+"Processing line .?#?#????#?#?#? 5,6" // app/Day12.php:235
+"Result = 1024" // app/Day12.php:261
+"Processing line ?..?#??###???? 1,7" // app/Day12.php:235
+"Result = 28912" // app/Day12.php:261
+"Processing line ??#.???##.#? 2,4,1" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line #??????#.?##?#?##??? 1,2,3,8,1" // app/Day12.php:235
+"Result = 243" // app/Day12.php:261
+"Processing line ?.?????????#?.? 2,6" // app/Day12.php:235
+"Result = 70605" // app/Day12.php:261
+"Processing line ??.????##??? 1,3,2,2" // app/Day12.php:235
+"Result = 162" // app/Day12.php:261
+"Processing line ?#?#??#???#?#??? 10,4" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line #.?.???#.#??#?? 1,1,1,1,6" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ??##??.??? 3,1" // app/Day12.php:235
+"Result = 66927" // app/Day12.php:261
+"Processing line ?????.??#..?.#? 1,1,3,1,2" // app/Day12.php:235
+"Result = 14406" // app/Day12.php:261
+"Processing line ####???#????? 8,1,1" // app/Day12.php:235
+"Result = 243" // app/Day12.php:261
+"Processing line ?###???#?.. 4,1,1" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ????.?????#?.???? 1,1,1,5,2" // app/Day12.php:235
+"Result = 7290000" // app/Day12.php:261
+"Processing line #????#.??? 4,1,1" // app/Day12.php:235
+"Result = 7248" // app/Day12.php:261
+"Processing line ??#??????.??#?. 7,1,1" // app/Day12.php:235
+"Result = 27064" // app/Day12.php:261
+"Processing line ??#?????##??? 1,8" // app/Day12.php:235
+"Result = 3179" // app/Day12.php:261
+"Processing line ..?#.?#???????. 2,2,2,1" // app/Day12.php:235
+"Result = 1323216" // app/Day12.php:261
+"Processing line ??.???#???.? 1,1,2,1" // app/Day12.php:235
+"Result = 68131000" // app/Day12.php:261
+"Processing line .?.#?.?.??? 2,1,1" // app/Day12.php:235
+"Result = 144604" // app/Day12.php:261
+"Processing line ????##??.????##?##?? 5,9" // app/Day12.php:235
+"Result = 345744" // app/Day12.php:261
+"Processing line ?#???????..?? 2,3,2" // app/Day12.php:235
+"Result = 295148" // app/Day12.php:261
+"Processing line ?#???????.??#????#?? 1,1,1,1,8" // app/Day12.php:235
+"Result = 131119814" // app/Day12.php:261
+"Processing line #.?????#?.? 1,2,1" // app/Day12.php:235
+"Result = 46592" // app/Day12.php:261
+"Processing line #?.??????????????? 1,1,1,4,1,1" // app/Day12.php:235
+"Result = 5645329641" // app/Day12.php:261
+"Processing line ??.#???#????#? 1,2,4,3" // app/Day12.php:235
+"Result = 512" // app/Day12.php:261
+"Processing line .#???.???.#???#.? 4,1,1,2,1" // app/Day12.php:235
+"Result = 9604" // app/Day12.php:261
+"Processing line ??????#???#?# 1,2,1,1" // app/Day12.php:235
+"Result = 197633" // app/Day12.php:261
+"Processing line ????##??###??????.?? 1,8,4,1" // app/Day12.php:235
+"Result = 3279584" // app/Day12.php:261
+"Processing line ??#?????#?????????? 9,1,3" // app/Day12.php:235
+"Result = 194111290" // app/Day12.php:261
+"Processing line .##???.???????? 2,1,1,1" // app/Day12.php:235
+"Result = 4251647582" // app/Day12.php:261
+"Processing line ?#.???.??#????# 2,1,1,7" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line .?..?..??? 1,1,2" // app/Day12.php:235
+"Result = 3938" // app/Day12.php:261
+"Processing line ???.????.??#?? 3,2" // app/Day12.php:235
+"Result = 1480356" // app/Day12.php:261
+"Processing line .?#.???#????????? 2,6" // app/Day12.php:235
+"Result = 1024" // app/Day12.php:261
+"Processing line ????.?#?????????# 1,6,1,1,1" // app/Day12.php:235
+"Result = 521284" // app/Day12.php:261
+"Processing line ???#?.?#???????? 1,2,4,2,1" // app/Day12.php:235
+"Result = 1563852" // app/Day12.php:261
+"Processing line ??##???#??#? 1,2,3,2" // app/Day12.php:235
+"Result = 768" // app/Day12.php:261
+"Processing line #?.?.#.???? 1,1,3" // app/Day12.php:235
+"Result = 2972" // app/Day12.php:261
+"Processing line ?#??#.?????? 1,2,4" // app/Day12.php:235
+"Result = 2142" // app/Day12.php:261
+"Processing line ??????.##?????.? 1,4,1" // app/Day12.php:235
+"Result = 33734898" // app/Day12.php:261
+"Processing line #????.???.#.???????. 1,1,3,1,3,1" // app/Day12.php:235
+"Result = 7031250" // app/Day12.php:261
+"Processing line .#?##?..?##?.??.?? 4,2" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line .#?###??#???#?? 9,3" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line #??.##?.?.?#????#. 3,3,1,3,1,1" // app/Day12.php:235
+"Result = 16" // app/Day12.php:261
+"Processing line ?????##????? 3,2,1" // app/Day12.php:235
+"Result = 3682995" // app/Day12.php:261
+"Processing line ??#??????#????. 3,7" // app/Day12.php:235
+"Result = 59049" // app/Day12.php:261
+"Processing line ????#.?#?? 1,1,1" // app/Day12.php:235
+"Result = 19966" // app/Day12.php:261
+"Processing line .??.#?##?.?? 1,5" // app/Day12.php:235
+"Result = 1250" // app/Day12.php:261
+"Processing line ?#??.#..?????#??#??? 2,1,1,1,6,1" // app/Day12.php:235
+"Result = 141244" // app/Day12.php:261
+"Processing line ?#?.??#???#??? 1,3,3" // app/Day12.php:235
+"Result = 7776" // app/Day12.php:261
+"Processing line ????.?#.?????????? 4,1,1,1,1,1" // app/Day12.php:235
+"Result = 1499770244" // app/Day12.php:261
+"Processing line ?.#.??????.?.##. 1,1,6,1,2" // app/Day12.php:235
+"Result = 16" // app/Day12.php:261
+"Processing line ????????#???#???? 1,5,3,1" // app/Day12.php:235
+"Result = 1737044555" // app/Day12.php:261
+"Processing line .?.?#??.?#?? 1,3,2" // app/Day12.php:235
+"Result = 40000" // app/Day12.php:261
+"Processing line ??????????#??####?? 1,1,4,8" // app/Day12.php:235
+"Result = 849316" // app/Day12.php:261
+"Processing line ?#???..????# 1,1,4" // app/Day12.php:235
+"Result = 5714" // app/Day12.php:261
+"Processing line .??###?.#..#???.?.? 5,1,1" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ??.?.?????.???????.. 1,3,4" // app/Day12.php:235
+"Result = 886857760" // app/Day12.php:261
+"Processing line ..??????.???. 4,1" // app/Day12.php:235
+"Result = 375574" // app/Day12.php:261
+"Processing line #????????####??????# 1,11,2" // app/Day12.php:235
+"Result = 7100" // app/Day12.php:261
+"Processing line ?#?.?.????? 1,1,2" // app/Day12.php:235
+"Result = 3701258" // app/Day12.php:261
+"Processing line .?.?#??###?????.?#?? 1,2,7,1,1,1" // app/Day12.php:235
+"Result = 16" // app/Day12.php:261
+"Processing line ???#?.#???#????..? 1,3,2,6,1" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ?..???????.? 1,1,4,1" // app/Day12.php:235
+"Result = 243" // app/Day12.php:261
+"Processing line .??????.#?????????? 1,1,1,1,1,4" // app/Day12.php:235
+"Result = 709872787912" // app/Day12.php:261
+"Processing line ?.?#??#?#???? 1,5" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ???.????#????#### 1,1,11" // app/Day12.php:235
+"Result = 61189" // app/Day12.php:261
+"Processing line .??#.?????#??#??? 1,1,2,6,1" // app/Day12.php:235
+"Result = 106540" // app/Day12.php:261
+"Processing line ?#.?????.#?? 2,1,2,3" // app/Day12.php:235
+"Result = 243" // app/Day12.php:261
+"Processing line ???.???#.#. 2,3,1" // app/Day12.php:235
+"Result = 162" // app/Day12.php:261
+"Processing line ?????.????.# 3,1,1" // app/Day12.php:235
+"Result = 4669004" // app/Day12.php:261
+"Processing line .?????..?????# 4,1,2" // app/Day12.php:235
+"Result = 230496" // app/Day12.php:261
+"Processing line .??##??#?#?????#. 6,1,3" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ??#?#???.??????#### 5,1,7" // app/Day12.php:235
+"Result = 1264500" // app/Day12.php:261
+"Processing line ???#??#??#??.? 1,1,6" // app/Day12.php:235
+"Result = 19256" // app/Day12.php:261
+"Processing line ??????.???? 1,1,3" // app/Day12.php:235
+"Result = 182039734" // app/Day12.php:261
+"Processing line ???###?###?.#??#? 1,9,2,1" // app/Day12.php:235
+"Result = 81" // app/Day12.php:261
+"Processing line ##??.###..??? 4,3,1" // app/Day12.php:235
+"Result = 3888" // app/Day12.php:261
+"Processing line ??.??.?????#? 1,1,4" // app/Day12.php:235
+"Result = 79997714" // app/Day12.php:261
+"Processing line ?#????????? 2,1,2" // app/Day12.php:235
+"Result = 68453811" // app/Day12.php:261
+"Processing line #?.?????.#?.??#?. 1,2,2,1,2" // app/Day12.php:235
+"Result = 76896" // app/Day12.php:261
+"Processing line ?#???..#????????#? 4,11" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ?????????####?? 1,1,1,5" // app/Day12.php:235
+"Result = 644778750" // app/Day12.php:261
+"Processing line ??.?????.?#??????. 3,3,2" // app/Day12.php:235
+"Result = 101127795" // app/Day12.php:261
+"Processing line ????.?#?#????#??.?? 2,11" // app/Day12.php:235
+"Result = 3888" // app/Day12.php:261
+"Processing line ##.#.?#.???.?.? 2,1,2,1,1" // app/Day12.php:235
+"Result = 32768" // app/Day12.php:261
+"Processing line ??.??????.????? 2,2,1,1,3" // app/Day12.php:235
+"Result = 186624" // app/Day12.php:261
+"Processing line #?#???.#??#? 1,2,5" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ??#?.????? 3,2,2" // app/Day12.php:235
+"Result = 512" // app/Day12.php:261
+"Processing line ??.???#??. 1,2" // app/Day12.php:235
+"Result = 130303" // app/Day12.php:261
+"Processing line ????#??#?. 1,1,1" // app/Day12.php:235
+"Result = 4258" // app/Day12.php:261
+"Processing line #?.???.????? 1,1,1,5" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ???????.#?#??#?#??? 2,1,1,1,1,4" // app/Day12.php:235
+"Result = 266630580" // app/Day12.php:261
+"Processing line ??#????##.? 5,2" // app/Day12.php:235
+"Result = 512" // app/Day12.php:261
+"Processing line ??#???#?..#???. 6,1,1" // app/Day12.php:235
+"Result = 14116" // app/Day12.php:261
+"Processing line ?.#?????#?.. 1,3" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line .??.??#????..???#? 2,5" // app/Day12.php:235
+"Result = 512" // app/Day12.php:261
+"Processing line ?#?#????#?????#? 3,6,1" // app/Day12.php:235
+"Result = 768" // app/Day12.php:261
+"Processing line ?###????.????##. 4,1,3" // app/Day12.php:235
+"Result = 59049" // app/Day12.php:261
+"Processing line ?.???????# 1,2,1" // app/Day12.php:235
+"Result = 2530991" // app/Day12.php:261
+"Processing line .??.??????#?..?## 1,6,2" // app/Day12.php:235
+"Result = 3125" // app/Day12.php:261
+"Processing line #???#??#????..???.?? 9,1,3" // app/Day12.php:235
+"Result = 4802" // app/Day12.php:261
+"Processing line #.???????????.???? 1,1,1,3,1,1" // app/Day12.php:235
+"Result = 1691383414567" // app/Day12.php:261
+"Processing line ..??##??????##????# 3,11" // app/Day12.php:235
+"Result = 512" // app/Day12.php:261
+"Processing line ?????.????????.?? 4,2,2,1" // app/Day12.php:235
+"Result = 4953586968" // app/Day12.php:261
+"Processing line #..??.?#?? 1,1,2" // app/Day12.php:235
+"Result = 2848" // app/Day12.php:261
+"Processing line ????.???##???.#???? 1,1,1,6,1,2" // app/Day12.php:235
+"Result = 442377" // app/Day12.php:261
+"Processing line ??#?#??#??.???????# 1,8,2,1,1" // app/Day12.php:235
+"Result = 39366" // app/Day12.php:261
+"Processing line ??#.???#.?? 2,1" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ???#?#?.#????????##? 3,2,8" // app/Day12.php:235
+"Result = 1250" // app/Day12.php:261
+"Processing line ???#?.????#????? 4,6,2" // app/Day12.php:235
+"Result = 39366" // app/Day12.php:261
+"Processing line ??.??..????? 1,2,1,1" // app/Day12.php:235
+"Result = 9397116" // app/Day12.php:261
+"Processing line ?.??#?#?????. 7,1" // app/Day12.php:235
+"Result = 24507" // app/Day12.php:261
+"Processing line ?.????#??#??#?#? 2,7" // app/Day12.php:235
+"Result = 243" // app/Day12.php:261
+"Processing line .?????????????#???? 3,1,4,1,1" // app/Day12.php:235
+"Result = 270214327492" // app/Day12.php:261
+"Processing line ????.????.? 1,3" // app/Day12.php:235
+"Result = 4193016" // app/Day12.php:261
+"Processing line ??#..?????? 3,1,1" // app/Day12.php:235
+"Result = 414752" // app/Day12.php:261
+"Processing line .?#...??????. 2,1,3" // app/Day12.php:235
+"Result = 243" // app/Day12.php:261
+"Processing line ?????????????# 2,1,8" // app/Day12.php:235
+"Result = 4389" // app/Day12.php:261
+"Processing line ?????????? 1,1,5" // app/Day12.php:235
+"Result = 15504" // app/Day12.php:261
+"Processing line ??#?##??#?#?#?????? 6,2,1,1,1,1" // app/Day12.php:235
+"Result = 7776" // app/Day12.php:261
+"Processing line .???#?????#. 4,1,1" // app/Day12.php:235
+"Result = 108192" // app/Day12.php:261
+"Processing line ?#.???#????###?#? 1,1,3,6" // app/Day12.php:235
+"Result = 44136" // app/Day12.php:261
+"Processing line ????#?#?#???.?.#?? 1,4,1,1,1,1" // app/Day12.php:235
+"Result = 7170045" // app/Day12.php:261
+"Processing line ?#???###.??#?##? 2,1,3,6" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ?????????.#? 6,1" // app/Day12.php:235
+"Result = 8104" // app/Day12.php:261
+"Processing line ?????#???#????..# 4,1,4,2,1" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line .?.????.?????????? 1,2,7" // app/Day12.php:235
+"Result = 123043245" // app/Day12.php:261
+"Processing line #???????????? 1,1,2,5" // app/Day12.php:235
+"Result = 1024" // app/Day12.php:261
+"Processing line ???????????#.??.? 5,4" // app/Day12.php:235
+"Result = 1875" // app/Day12.php:261
+"Processing line ???##?#?#####???? 13,1" // app/Day12.php:235
+"Result = 50016" // app/Day12.php:261
+"Processing line ??.?..???.?? 1,1" // app/Day12.php:235
+"Result = 525985082" // app/Day12.php:261
+"Processing line ???#?#?????? 8,1" // app/Day12.php:235
+"Result = 125146" // app/Day12.php:261
+"Processing line ?.??#?.#??? 2,3" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line #.?.??..#? 1,1,2" // app/Day12.php:235
+"Result = 1048" // app/Day12.php:261
+"Processing line ????????.??#???? 2,1,1,1,4" // app/Day12.php:235
+"Result = 249328575" // app/Day12.php:261
+"Processing line ??#.??????????????? 1,3" // app/Day12.php:235
+"Result = 8731909" // app/Day12.php:261
+"Processing line .??##?.??.???##??#?. 4,8" // app/Day12.php:235
+"Result = 1024" // app/Day12.php:261
+"Processing line ?.???#????..???? 4,1" // app/Day12.php:235
+"Result = 28585080" // app/Day12.php:261
+"Processing line ?#??????#?#. 1,3,1,1" // app/Day12.php:235
+"Result = 3970" // app/Day12.php:261
+"Processing line #??####????.??? 11,2" // app/Day12.php:235
+"Result = 162" // app/Day12.php:261
+"Processing line .?#??????????????? 2,3,6" // app/Day12.php:235
+"Result = 141168570" // app/Day12.php:261
+"Processing line ?#???#?#????#?.? 8,1,2" // app/Day12.php:235
+"Result = 7060" // app/Day12.php:261
+"Processing line ??.????.?.??#?#? 2,1,1,1,5" // app/Day12.php:235
+"Result = 39366" // app/Day12.php:261
+"Processing line ???#??.????#.. 4,2,2" // app/Day12.php:235
+"Result = 768" // app/Day12.php:261
+"Processing line ???.????????. 3,1,2,1" // app/Day12.php:235
+"Result = 1600000" // app/Day12.php:261
+"Processing line #?#??.??#.????? 1,2,3,1,3" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ????#.???#?. 1,1,1,5" // app/Day12.php:235
+"Result = 81" // app/Day12.php:261
+"Processing line ?????#???.?????. 8,2" // app/Day12.php:235
+"Result = 165888" // app/Day12.php:261
+"Processing line ??##??##??##??##? 11,4" // app/Day12.php:235
+"Result = 81" // app/Day12.php:261
+"Processing line ??#.????#?? 2,5" // app/Day12.php:235
+"Result = 768" // app/Day12.php:261
+"Processing line ??????????? 2,3" // app/Day12.php:235
+"Result = 183579396" // app/Day12.php:261
+"Processing line ?????.#..? 1,1,1" // app/Day12.php:235
+"Result = 6941421" // app/Day12.php:261
+"Processing line .???#????#?????? 10,1" // app/Day12.php:235
+"Result = 687048" // app/Day12.php:261
+"Processing line #???#?#???#????#???? 1,15,1" // app/Day12.php:235
+"Result = 243" // app/Day12.php:261
+"Processing line ??????????##? 1,1,1,5" // app/Day12.php:235
+"Result = 11107126" // app/Day12.php:261
+"Processing line ???.??##???.#..??#. 4,1,1" // app/Day12.php:235
+"Result = 243" // app/Day12.php:261
+"Processing line .?????.??##.? 1,1,1,4" // app/Day12.php:235
+"Result = 28561" // app/Day12.php:261
+"Processing line ??????##???..???#?? 3,5,1,2,1" // app/Day12.php:235
+"Result = 1373536" // app/Day12.php:261
+"Processing line .?#?#????.?.#?. 6,1,1,1" // app/Day12.php:235
+"Result = 256" // app/Day12.php:261
+"Processing line ?????#?#?.#?? 1,4,1" // app/Day12.php:235
+"Result = 122167" // app/Day12.php:261
+"Processing line ???.??##?.?????? 3,5,1,1,1" // app/Day12.php:235
+"Result = 2500" // app/Day12.php:261
+"Processing line ?.????.????? 3,2,1" // app/Day12.php:235
+"Result = 960000" // app/Day12.php:261
+"Processing line ..??.?..#??##????#? 2,10" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ???..?????#?.??????? 1,2,5" // app/Day12.php:235
+"Result = 2859254639" // app/Day12.php:261
+"Processing line ?#???????????#?.? 9,2" // app/Day12.php:235
+"Result = 16384" // app/Day12.php:261
+"Processing line ..?##????##..# 2,1,2,1" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ???#??????#?.# 9,1,1" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line #?#???.??? 5,2" // app/Day12.php:235
+"Result = 162" // app/Day12.php:261
+"Processing line ???..???.?.??????. 1,2,3,1" // app/Day12.php:235
+"Result = 1317556098" // app/Day12.php:261
+"Processing line .#???.?.#??#?..?. 3,5" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ?#?#??###?. 4,4" // app/Day12.php:235
+"Result = 243" // app/Day12.php:261
+"Processing line ????.?#???#? 2,3,2" // app/Day12.php:235
+"Result = 132777" // app/Day12.php:261
+"Processing line ?#?.#?.?..#? 3,1,1,1" // app/Day12.php:235
+"Result = 16" // app/Day12.php:261
+"Processing line ???.??????.#??? 2,4,3" // app/Day12.php:235
+"Result = 39366" // app/Day12.php:261
+"Processing line .##??????##?#????.#? 10,2,2" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ..??##??..??. 4,1" // app/Day12.php:235
+"Result = 98644" // app/Day12.php:261
+"Processing line #.##????....##.??? 1,2,3,2,3" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ?.???#.?#.????? 2,2,4" // app/Day12.php:235
+"Result = 778" // app/Day12.php:261
+"Processing line ???#???.??###? 3,6" // app/Day12.php:235
+"Result = 12288" // app/Day12.php:261
+"Processing line ?#..????..?##??.? 2,3,4" // app/Day12.php:235
+"Result = 1024" // app/Day12.php:261
+"Processing line ??#.???????????. 1,1,4,2,1" // app/Day12.php:235
+"Result = 7967563" // app/Day12.php:261
+"Processing line .##?????#???##?.???? 5,7,1" // app/Day12.php:235
+"Result = 80000" // app/Day12.php:261
+"Processing line ??.?????#???#?#?? 2,1,1,9" // app/Day12.php:235
+"Result = 2500" // app/Day12.php:261
+"Processing line #?.??.?#.? 1,1,1" // app/Day12.php:235
+"Result = 1683" // app/Day12.php:261
+"Processing line ???..??????#?? 1,2,4" // app/Day12.php:235
+"Result = 39747223" // app/Day12.php:261
+"Processing line .#?#?#????.??#?.##?? 8,1,3" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ??????????.?? 6,1" // app/Day12.php:235
+"Result = 20189920" // app/Day12.php:261
+"Processing line ?#????.?#.#??#?#.. 4,2,6" // app/Day12.php:235
+"Result = 162" // app/Day12.php:261
+"Processing line .????????.??.?? 4,1" // app/Day12.php:235
+"Result = 43943801" // app/Day12.php:261
+"Processing line ???.#?#???????#... 6,1" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line .????.????? 1,5" // app/Day12.php:235
+"Result = 16384" // app/Day12.php:261
+"Processing line ?????????#. 1,5" // app/Day12.php:235
+"Result = 8104" // app/Day12.php:261
+"Processing line .?..??##?.##?. 3,3" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ??.#?#?#?#????#???? 1,1,3,7,1" // app/Day12.php:235
+"Result = 11894" // app/Day12.php:261
+"Processing line ..??#?#???#??. 5,3" // app/Day12.php:235
+"Result = 7776" // app/Day12.php:261
+"Processing line ?..##????????? 1,5,1,1" // app/Day12.php:235
+"Result = 60000" // app/Day12.php:261
+"Processing line ?#?????#?? 1,4" // app/Day12.php:235
+"Result = 768" // app/Day12.php:261
+"Processing line #.???#??????#?. 1,4,5" // app/Day12.php:235
+"Result = 3125" // app/Day12.php:261
+"Processing line ?????##????.?.?? 1,8,1" // app/Day12.php:235
+"Result = 11881296" // app/Day12.php:261
+"Processing line ???###?#??.??.?# 1,7,1,2" // app/Day12.php:235
+"Result = 24576" // app/Day12.php:261
+"Processing line ?#.??#??#????? 1,5" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ?#.???#????.???#?? 2,1,3,1,3" // app/Day12.php:235
+"Result = 17228856" // app/Day12.php:261
+"Processing line ??#?.???##.??.????.? 4,2,3,1" // app/Day12.php:235
+"Result = 3464" // app/Day12.php:261
+"Processing line ??.??????#????#? 1,8" // app/Day12.php:235
+"Result = 1605032" // app/Day12.php:261
+"Processing line ?#???.?????#?? 3,2,2" // app/Day12.php:235
+"Result = 1509360" // app/Day12.php:261
+"Processing line .#???????? 2,2" // app/Day12.php:235
+"Result = 32184" // app/Day12.php:261
+"Processing line ??.##.????????????? 2,2,3,1" // app/Day12.php:235
+"Result = 492241684149" // app/Day12.php:261
+"Processing line #???????#?. 5,1" // app/Day12.php:235
+"Result = 16" // app/Day12.php:261
+"Processing line ##.??.#?.??#?? 2,1,2,2" // app/Day12.php:235
+"Result = 1024" // app/Day12.php:261
+"Processing line ??????##??. 1,4" // app/Day12.php:235
+"Result = 746892" // app/Day12.php:261
+"Processing line ??.??##????? 1,7,1" // app/Day12.php:235
+"Result = 512" // app/Day12.php:261
+"Processing line ???.?#??#??? 1,5" // app/Day12.php:235
+"Result = 145152" // app/Day12.php:261
+"Processing line ?#???.?????##?#?#?.# 3,3,2,3,1" // app/Day12.php:235
+"Result = 1024" // app/Day12.php:261
+"Processing line ?#?.????#? 2,1,1" // app/Day12.php:235
+"Result = 21998" // app/Day12.php:261
+"Processing line .?#?#??.??#???? 4,6" // app/Day12.php:235
+"Result = 5184" // app/Day12.php:261
+"Processing line ?#..?######???? 1,10" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ??##??????? 2,5" // app/Day12.php:235
+"Result = 4476" // app/Day12.php:261
+"Processing line ???.????##..?..????? 2,2" // app/Day12.php:235
+"Result = 929968" // app/Day12.php:261
+"Processing line ??...##.????? 2,2,1,1" // app/Day12.php:235
+"Result = 60000" // app/Day12.php:261
+"Processing line ?#????#..#????#???? 6,10" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line .?##?????#??# 2,7" // app/Day12.php:235
+"Result = 16" // app/Day12.php:261
+"Processing line ?????????#??#?#??#?? 2,10" // app/Day12.php:235
+"Result = 1913152" // app/Day12.php:261
+"Processing line .??##????#??.???.#?? 11,1,1,1" // app/Day12.php:235
+"Result = 9604" // app/Day12.php:261
+"Processing line ?#???.????# 2,5" // app/Day12.php:235
+"Result = 904" // app/Day12.php:261
+"Processing line ???#?.??..???##???.? 5,1,2,2,2" // app/Day12.php:235
+"Result = 512" // app/Day12.php:261
+"Processing line ???.??????????#? 1,1,1,4,2" // app/Day12.php:235
+"Result = 339929553" // app/Day12.php:261
+"Processing line ????###????.??? 8,2" // app/Day12.php:235
+"Result = 667593" // app/Day12.php:261
+"Processing line ???.?#.??#??.??????. 1,3,2" // app/Day12.php:235
+"Result = 7452018" // app/Day12.php:261
+"Processing line ??#???.#????#?? 2,2,3" // app/Day12.php:235
+"Result = 7776" // app/Day12.php:261
+"Processing line #?#???#??#????.# 3,9,1" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line .??#????????#.?? 1,1,1,4,1" // app/Day12.php:235
+"Result = 7536851" // app/Day12.php:261
+"Processing line ??#.????????#???#??? 1,3,1,3,1,1" // app/Day12.php:235
+"Result = 1789520975" // app/Day12.php:261
+"Processing line ??.?#??##?#???#??## 1,15" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ?????.?????#???#.??? 5,8,3" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line .?##????..?#?. 6,2" // app/Day12.php:235
+"Result = 1024" // app/Day12.php:261
+"Processing line #????.??##????.# 1,1,6,1" // app/Day12.php:235
+"Result = 141481" // app/Day12.php:261
+"Processing line ?##???#??.??#. 3,4,1,1" // app/Day12.php:235
+"Result = 768" // app/Day12.php:261
+"Processing line ???#.???#?.??????#.? 3,4,1,1,3" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ????????.# 7,1" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ?#???###?? 1,4,1" // app/Day12.php:235
+"Result = 153" // app/Day12.php:261
+"Processing line ??.??#????#? 1,1,7" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ?#??????#..??.. 2,5,2" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line .??.?#????#?#.. 1,9" // app/Day12.php:235
+"Result = 162" // app/Day12.php:261
+"Processing line ???..???#.??? 2,4" // app/Day12.php:235
+"Result = 3872" // app/Day12.php:261
+"Processing line #??##??#.??? 1,2,2,2" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ..???.????? 2,1,2" // app/Day12.php:235
+"Result = 124416" // app/Day12.php:261
+"Processing line ???????.????##.##.? 4,1,4,2" // app/Day12.php:235
+"Result = 458752" // app/Day12.php:261
+"Processing line ??.??.?#.. 1,2,1" // app/Day12.php:235
+"Result = 4112" // app/Day12.php:261
+"Processing line ??#??#????##? 1,1,6" // app/Day12.php:235
+"Result = 81" // app/Day12.php:261
+"Processing line ???##?###???# 1,8,1" // app/Day12.php:235
+"Result = 243" // app/Day12.php:261
+"Processing line ?#????????.?.#?? 3,1,1,3" // app/Day12.php:235
+"Result = 50943314" // app/Day12.php:261
+"Processing line .?#?#??#?#.??.?? 9,1" // app/Day12.php:235
+"Result = 2500" // app/Day12.php:261
+"Processing line .?...???.????# 1,1,5" // app/Day12.php:235
+"Result = 16384" // app/Day12.php:261
+"Processing line ...#?.#???#?#????? 1,8" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line #...?????#??#?#???#? 1,1,1,1,8" // app/Day12.php:235
+"Result = 7776" // app/Day12.php:261
+"Processing line .??.??#?????????? 1,12" // app/Day12.php:235
+"Result = 15620" // app/Day12.php:261
+"Processing line #????.?###?##???. 5,7,1" // app/Day12.php:235
+"Result = 3888" // app/Day12.php:261
+"Processing line ?#?.?#??????? 2,6" // app/Day12.php:235
+"Result = 1024" // app/Day12.php:261
+"Processing line ?#?#??????? 6,1" // app/Day12.php:235
+"Result = 331692" // app/Day12.php:261
+"Processing line ..???..?#??????.#? 3,3,2,1" // app/Day12.php:235
+"Result = 31417" // app/Day12.php:261
+"Processing line ????.???#?? 1,2,2" // app/Day12.php:235
+"Result = 2572128" // app/Day12.php:261
+"Processing line ???##?##???#????? 5,3" // app/Day12.php:235
+"Result = 243" // app/Day12.php:261
+"Processing line .???..#?#? 1,1,1" // app/Day12.php:235
+"Result = 5988" // app/Day12.php:261
+"Processing line ?????#???#? 5,4" // app/Day12.php:235
+"Result = 219" // app/Day12.php:261
+"Processing line #?.?##?#???#??#??.# 2,2,1,7,1" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ?#?????.??#??#.?. 6,4" // app/Day12.php:235
+"Result = 162" // app/Day12.php:261
+"Processing line ???#.???.????.?? 3,2,2,1,2" // app/Day12.php:235
+"Result = 512" // app/Day12.php:261
+"Processing line .??#?#??#??? 1,1,1,3" // app/Day12.php:235
+"Result = 1962" // app/Day12.php:261
+"Processing line ?.??#.?.??? 3,2" // app/Day12.php:235
+"Result = 512" // app/Day12.php:261
+"Processing line .?.#??????#????##?## 1,1,2,1,1,7" // app/Day12.php:235
+"Result = 1296" // app/Day12.php:261
+"Processing line .????#???#???? 2,6,3" // app/Day12.php:235
+"Result = 256" // app/Day12.php:261
+"Processing line ??##????????## 2,1,1,3" // app/Day12.php:235
+"Result = 393216" // app/Day12.php:261
+"Processing line .????..??. 3,1" // app/Day12.php:235
+"Result = 5184" // app/Day12.php:261
+"Processing line ???#.?????###?.??#?? 2,1,1,3,4" // app/Day12.php:235
+"Result = 2722734" // app/Day12.php:261
+"Processing line ?..???..?.????????#? 1,2,1,7,2" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ????????#?#? 1,5,3" // app/Day12.php:235
+"Result = 81" // app/Day12.php:261
+"Processing line .????????????? 6,2" // app/Day12.php:235
+"Result = 8216559" // app/Day12.php:261
+"Processing line ???????##?#????.?#?? 1,5,2,1,1,1" // app/Day12.php:235
+"Result = 8355498" // app/Day12.php:261
+"Processing line ??#?#.????#?? 5,2,1,1" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ??..#?????????. 1,4" // app/Day12.php:235
+"Result = 102666" // app/Day12.php:261
+"Processing line ??#.#???#???#? 2,7,2" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line .?.?.?????##?.?? 1,1,1,4,1" // app/Day12.php:235
+"Result = 21008750" // app/Day12.php:261
+"Processing line .?#???.?#. 4,1" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ??????#?.#??.?? 2,2,1,1,1" // app/Day12.php:235
+"Result = 73723032" // app/Day12.php:261
+"Processing line .??#?.?#??? 3,2,1" // app/Day12.php:235
+"Result = 60000" // app/Day12.php:261
+"Processing line ?##????##.??.??? 8,1,1" // app/Day12.php:235
+"Result = 102487" // app/Day12.php:261
+"Processing line ???#..??.##??????#? 2,1,1,9" // app/Day12.php:235
+"Result = 512" // app/Day12.php:261
+"Processing line .#???#??#? 2,5" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ???#.???#???##???? 2,1,5,2,1" // app/Day12.php:235
+"Result = 124416" // app/Day12.php:261
+"Processing line ?..#?????#????. 1,4" // app/Day12.php:235
+"Result = 1024" // app/Day12.php:261
+"Processing line .??????#??. 1,1,1" // app/Day12.php:235
+"Result = 20893811" // app/Day12.php:261
+"Processing line ?.??.?????#??#? 1,1,2,4" // app/Day12.php:235
+"Result = 8623828" // app/Day12.php:261
+"Processing line ???.?#.#??????.??? 3,1,2,2,1,2" // app/Day12.php:235
+"Result = 162" // app/Day12.php:261
+"Processing line ?????##?#??#????#.?? 1,13" // app/Day12.php:235
+"Result = 10068" // app/Day12.php:261
+"Processing line ..#????????.?? 2,4" // app/Day12.php:235
+"Result = 4035" // app/Day12.php:261
+"Processing line ?#??.?#?.?#??. 2,2,2" // app/Day12.php:235
+"Result = 32768" // app/Day12.php:261
+"Processing line ???##.????##? 4,7" // app/Day12.php:235
+"Result = 16" // app/Day12.php:261
+"Processing line ?##?#?###?#.???.#??? 11,2,2" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ?.???????#? 1,5" // app/Day12.php:235
+"Result = 506196" // app/Day12.php:261
+"Processing line ??.?.???## 1,1,2" // app/Day12.php:235
+"Result = 32768" // app/Day12.php:261
+"Processing line ..#??#?#??##???#???# 1,4,9,1" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ?#??#????????## 3,1,1,5" // app/Day12.php:235
+"Result = 243" // app/Day12.php:261
+"Processing line .#?.??#????????# 1,8,1" // app/Day12.php:235
+"Result = 243" // app/Day12.php:261
+"Processing line #??????#???#?. 1,1,3,1" // app/Day12.php:235
+"Result = 143233" // app/Day12.php:261
+"Processing line .?.???.?#??## 1,6" // app/Day12.php:235
+"Result = 16384" // app/Day12.php:261
+"Processing line #?#?????#?#??#?..??? 1,1,3,1,3,1" // app/Day12.php:235
+"Result = 5617" // app/Day12.php:261
+"Processing line ##??#???.?#?? 7,1" // app/Day12.php:235
+"Result = 81" // app/Day12.php:261
+"Processing line ..??#????.??##?#???. 5,8" // app/Day12.php:235
+"Result = 7776" // app/Day12.php:261
+"Processing line ??..#??????? 1,1,1,2" // app/Day12.php:235
+"Result = 16987733" // app/Day12.php:261
+"Processing line ?????##?#.? 6,1,1" // app/Day12.php:235
+"Result = 16" // app/Day12.php:261
+"Processing line ???#???#?#?.# 4,1,1,1" // app/Day12.php:235
+"Result = 243" // app/Day12.php:261
+"Processing line ?.#???#.?#?#??.? 3,1,4" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ?.?#??.???.#..? 2,1,1,1,1" // app/Day12.php:235
+"Result = 2425714" // app/Day12.php:261
+"Processing line ???#?#????.#????#? 1,2,5,1,1,1" // app/Day12.php:235
+"Result = 512" // app/Day12.php:261
+"Processing line .#.??##??#?## 1,9" // app/Day12.php:235
+"Result = 16" // app/Day12.php:261
+"Processing line ???.????.???.? 4,3" // app/Day12.php:235
+"Result = 6544" // app/Day12.php:261
+"Processing line .???#???##.?#? 1,3,2,2" // app/Day12.php:235
+"Result = 39366" // app/Day12.php:261
+"Processing line ...#??#?#?# 1,5" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ???#?#???.. 1,3" // app/Day12.php:235
+"Result = 3708" // app/Day12.php:261
+"Processing line #?#???#??###. 1,5,4" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line #?????????##?????## 1,1,1,1,6,3" // app/Day12.php:235
+"Result = 3125" // app/Day12.php:261
+"Processing line ?.?#????#????###.? 8,3" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line .??#???????????? 6,1,3" // app/Day12.php:235
+"Result = 20286091" // app/Day12.php:261
+"Processing line .?...#.??#.#. 1,1,1,1" // app/Day12.php:235
+"Result = 2002" // app/Day12.php:261
+"Processing line .#????????? 4,2" // app/Day12.php:235
+"Result = 4896" // app/Day12.php:261
+"Processing line ?????????##?.????? 8,3" // app/Day12.php:235
+"Result = 563335" // app/Day12.php:261
+"Processing line ?????#?.?.???.??? 2,1,3,2" // app/Day12.php:235
+"Result = 91261220" // app/Day12.php:261
+"Processing line .???#????#### 1,1,1,4" // app/Day12.php:235
+"Result = 1024" // app/Day12.php:261
+"Processing line .?.#??#??##?##???.?? 1,1,9,1,2" // app/Day12.php:235
+"Result = 3888" // app/Day12.php:261
+"Processing line ?..#???#?#?.???.??. 1,8,1,1" // app/Day12.php:235
+"Result = 458752" // app/Day12.php:261
+"Processing line ??.??.????????? 1,1,4,1,1" // app/Day12.php:235
+"Result = 37398800" // app/Day12.php:261
+"Processing line .???#.#??.#.? 4,3,1" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ???#???.??? 1,2,1" // app/Day12.php:235
+"Result = 46414726" // app/Day12.php:261
+"Processing line ?#???????..??#?#???? 5,7" // app/Day12.php:235
+"Result = 39366" // app/Day12.php:261
+"Processing line ??#???????#?#????#? 1,6,5,3" // app/Day12.php:235
+"Result = 3363" // app/Day12.php:261
+"Processing line #???????????#.###? 1,2,1,1,2,4" // app/Day12.php:235
+"Result = 100000" // app/Day12.php:261
+"Processing line ?#???#?.#??.?# 6,1,2" // app/Day12.php:235
+"Result = 162" // app/Day12.php:261
+"Processing line #??????????.#?##?? 6,2,4" // app/Day12.php:235
+"Result = 62208" // app/Day12.php:261
+"Processing line ???????.?#????? 2,1,1,2,4" // app/Day12.php:235
+"Result = 5184" // app/Day12.php:261
+"Processing line ??#?##?#..?????#. 2,4,6" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ??????.??#??#? 3,4" // app/Day12.php:235
+"Result = 13381" // app/Day12.php:261
+"Processing line .??...?????.? 1,2" // app/Day12.php:235
+"Result = 22342915" // app/Day12.php:261
+"Processing line ??#????##????????# 1,1,8,1,1" // app/Day12.php:235
+"Result = 91823" // app/Day12.php:261
+"Processing line .?#?????.? 1,1" // app/Day12.php:235
+"Result = 70170" // app/Day12.php:261
+"Processing line ???#?#????.???? 4,1,1" // app/Day12.php:235
+"Result = 620201942" // app/Day12.php:261
+"Processing line ?.???.##?????# 1,8" // app/Day12.php:235
+"Result = 1024" // app/Day12.php:261
+"Processing line ??.#??#.???? 1,4,3" // app/Day12.php:235
+"Result = 5184" // app/Day12.php:261
+"Processing line ?.?#?????#. 1,5,1" // app/Day12.php:235
+"Result = 512" // app/Day12.php:261
+"Processing line .???.?.????? 3,1,2,1" // app/Day12.php:235
+"Result = 7203" // app/Day12.php:261
+"Processing line ???#?.#????..?#? 3,1,3,2" // app/Day12.php:235
+"Result = 2500" // app/Day12.php:261
+"Processing line ??????#??#?### 1,9" // app/Day12.php:235
+"Result = 19156" // app/Day12.php:261
+"Processing line ??????#??#???.#? 1,11,1" // app/Day12.php:235
+"Result = 81" // app/Day12.php:261
+"Processing line ?#????#?#?#?.? 3,2,4" // app/Day12.php:235
+"Result = 162" // app/Day12.php:261
+"Processing line ??#.????#??..?????.? 1,1,4,1,2,1" // app/Day12.php:235
+"Result = 95970277" // app/Day12.php:261
+"Processing line ?.???.???#??###?.? 1,1,2,7" // app/Day12.php:235
+"Result = 202500" // app/Day12.php:261
+"Processing line ????..#?#???.?.#? 3,5,1,2" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ???.?#####.##???? 1,1,5,2,2" // app/Day12.php:235
+"Result = 512" // app/Day12.php:261
+"Processing line ?#???##??#???? 1,1,8" // app/Day12.php:235
+"Result = 1066" // app/Day12.php:261
+"Processing line ???.?##?????.?#?#??? 6,3" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ????#..????.#?#.?#?? 4,4,1,1,1" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ?#?.#???.????????? 3,1,1,7,1" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line #??#??#?#..?????? 1,6,1,3" // app/Day12.php:235
+"Result = 243" // app/Day12.php:261
+"Processing line ???#???.?#? 1,3,1" // app/Day12.php:235
+"Result = 13188" // app/Day12.php:261
+"Processing line ?#.?.?#???? 1,1,2" // app/Day12.php:235
+"Result = 43548" // app/Day12.php:261
+"Processing line .#???#?.?.????#.??? 1,1,2,1,3,1" // app/Day12.php:235
+"Result = 6423580" // app/Day12.php:261
+"Processing line ??.??####?.##???. 4,4" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ?#?.??????? 1,3" // app/Day12.php:235
+"Result = 193129" // app/Day12.php:261
+"Processing line .???#?#?###????.## 11,1,2" // app/Day12.php:235
+"Result = 243" // app/Day12.php:261
+"Processing line ?#???###????? 2,3,1,1" // app/Day12.php:235
+"Result = 39366" // app/Day12.php:261
+"Processing line .#?#??##??#?.?????? 1,5,2,2,3" // app/Day12.php:235
+"Result = 2592" // app/Day12.php:261
+"Processing line .##?#??#??????#??? 8,3" // app/Day12.php:235
+"Result = 243" // app/Day12.php:261
+"Processing line ##?#?#????? 4,1,3" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ??.????.??#?#?#?#??? 1,9" // app/Day12.php:235
+"Result = 8121184" // app/Day12.php:261
+"Processing line ????.#?.#??##.?#..#? 2,1,1,5,1,1" // app/Day12.php:235
+"Result = 81" // app/Day12.php:261
+"Processing line ??.#?#???###. 3,5" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line #????#?#???.?? 3,6,2" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line .#??..??#. 3,1,1" // app/Day12.php:235
+"Result = 16" // app/Day12.php:261
+"Processing line ???????.?#? 1,4,1" // app/Day12.php:235
+"Result = 7572" // app/Day12.php:261
+"Processing line #???????#???#. 1,3,1,5" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ??###??#???? 7,1" // app/Day12.php:235
+"Result = 26165" // app/Day12.php:261
+"Processing line .??#?###??.?#?##?? 9,1,3" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line #??#???#?????###??# 4,1,1,1,5,1" // app/Day12.php:235
+"Result = 243" // app/Day12.php:261
+"Processing line ?#.?#.??#????#. 1,1,3,1" // app/Day12.php:235
+"Result = 243" // app/Day12.php:261
+"Processing line .##.????.??#?. 2,1,4" // app/Day12.php:235
+"Result = 1024" // app/Day12.php:261
+"Processing line ##.??#?????????..## 2,8,1,2" // app/Day12.php:235
+"Result = 7776" // app/Day12.php:261
+"Processing line ?.??#?.????. 2,3" // app/Day12.php:235
+"Result = 16128" // app/Day12.php:261
+"Processing line ?#????##?#.???##?? 2,5,1,2" // app/Day12.php:235
+"Result = 3125" // app/Day12.php:261
+"Processing line #????#??#???#.# 1,10,1" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ???????..? 1,1,1" // app/Day12.php:235
+"Result = 561416823" // app/Day12.php:261
+"Processing line .??#??#??#?? 4,1,2,1" // app/Day12.php:235
+"Result = 81" // app/Day12.php:261
+"Processing line ?????#???..?? 2,1" // app/Day12.php:235
+"Result = 2025442" // app/Day12.php:261
+"Processing line .#?..???###. 1,6" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ???#?.??.???. 3,1,1" // app/Day12.php:235
+"Result = 16763348" // app/Day12.php:261
+"Processing line ?#????.#?.??.??.#. 2,2,2,2,1" // app/Day12.php:235
+"Result = 32768" // app/Day12.php:261
+"Processing line ?.??#.??????? 2,4" // app/Day12.php:235
+"Result = 5184" // app/Day12.php:261
+"Processing line ??#??????? 2,1,2" // app/Day12.php:235
+"Result = 2912754" // app/Day12.php:261
+"Processing line ???.?##?.??????? 2,2,1,1,1" // app/Day12.php:235
+"Result = 44334220" // app/Day12.php:261
+"Processing line ??.??#??#? 1,5" // app/Day12.php:235
+"Result = 7501" // app/Day12.php:261
+"Processing line #????????#?.##? 1,1,2,1,2" // app/Day12.php:235
+"Result = 7776" // app/Day12.php:261
+"Processing line #??.?.?#?????????? 1,1,1,4,1,1" // app/Day12.php:235
+"Result = 480920032" // app/Day12.php:261
+"Processing line ???.?#?.?#?? 3,1,1" // app/Day12.php:235
+"Result = 2778" // app/Day12.php:261
+"Processing line ..??#??..?#?.??..?.? 1,3,1,1,1,1" // app/Day12.php:235
+"Result = 512" // app/Day12.php:261
+"Processing line ??#??#??##??#???.??? 6,5,3" // app/Day12.php:235
+"Result = 512" // app/Day12.php:261
+"Processing line ??????##????????#.# 2,7,2,1,1" // app/Day12.php:235
+"Result = 338806" // app/Day12.php:261
+"Processing line ?#?.????.???#?? 2,2,4" // app/Day12.php:235
+"Result = 5479506" // app/Day12.php:261
+"Processing line ?#?#??????#????#?? 1,6,1,1,2" // app/Day12.php:235
+"Result = 355998" // app/Day12.php:261
+"Processing line ???.?????? 1,2,1" // app/Day12.php:235
+"Result = 236717956" // app/Day12.php:261
+"Processing line ?????????###?#???? 1,9,5" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ??????##?#????# 1,5,1,4" // app/Day12.php:235
+"Result = 162" // app/Day12.php:261
+"Processing line ?.?#?##?...#?? 5,1,1" // app/Day12.php:235
+"Result = 2592" // app/Day12.php:261
+"Processing line .???#...?????#?? 2,1,7" // app/Day12.php:235
+"Result = 512" // app/Day12.php:261
+"Processing line ???.??.?????.??? 3,1,2,1,1" // app/Day12.php:235
+"Result = 430346333" // app/Day12.php:261
+"Processing line .?#??????. 1,3" // app/Day12.php:235
+"Result = 14499" // app/Day12.php:261
+"Processing line ??????????#. 5,2" // app/Day12.php:235
+"Result = 6016" // app/Day12.php:261
+"Processing line ????#???##????#??#? 2,2,3,8" // app/Day12.php:235
+"Result = 1875" // app/Day12.php:261
+"Processing line ???#.????????##?# 1,1,1,5,1" // app/Day12.php:235
+"Result = 46464320" // app/Day12.php:261
+"Processing line ??????#?##?? 2,7" // app/Day12.php:235
+"Result = 60966" // app/Day12.php:261
+"Processing line ?.?##???#??## 1,3,2,2" // app/Day12.php:235
+"Result = 1024" // app/Day12.php:261
+"Processing line ?.????.?#.. 1,2" // app/Day12.php:235
+"Result = 27148" // app/Day12.php:261
+"Processing line ?#.????.????. 2,3,3" // app/Day12.php:235
+"Result = 1024" // app/Day12.php:261
+"Processing line .?##????????????. 3,1,2" // app/Day12.php:235
+"Result = 2005634032" // app/Day12.php:261
+"Processing line .???.??#?.???#?# 2,2,1,3" // app/Day12.php:235
+"Result = 32768" // app/Day12.php:261
+"Processing line ?#?.?#??????????? 2,2,1,1,5" // app/Day12.php:235
+"Result = 1303210" // app/Day12.php:261
+"Processing line ????#???#??????###?? 2,3,1,1,6,1" // app/Day12.php:235
+"Result = 3888" // app/Day12.php:261
+"Processing line ?#?##???#??#??. 4,2,3" // app/Day12.php:235
+"Result = 243" // app/Day12.php:261
+"Processing line ??????.?#??.?? 1,1,3,1" // app/Day12.php:235
+"Result = 1106771942" // app/Day12.php:261
+"Processing line .?????#####??###? 9,3" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line .?.???#?#.????.?## 1,4,3,2" // app/Day12.php:235
+"Result = 1024" // app/Day12.php:261
+"Processing line ???###.??????? 5,1,2" // app/Day12.php:235
+"Result = 506250" // app/Day12.php:261
+"Processing line ??#??.???. 4,1" // app/Day12.php:235
+"Result = 85674" // app/Day12.php:261
+"Processing line .?.?.?##.??#? 1,3,2" // app/Day12.php:235
+"Result = 2500" // app/Day12.php:261
+"Processing line ???..?#??#?. 2,6" // app/Day12.php:235
+"Result = 162" // app/Day12.php:261
+"Processing line ??.#??#????????.?? 1,5" // app/Day12.php:235
+"Result = 93869" // app/Day12.php:261
+"Processing line ??#.??##.?? 1,3" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ?#.?.?#?.?#####????. 2,1,2,7" // app/Day12.php:235
+"Result = 5184" // app/Day12.php:261
+"Processing line ???.????#?#??? 2,9" // app/Day12.php:235
+"Result = 5184" // app/Day12.php:261
+"Processing line ??????#?.# 1,1,1" // app/Day12.php:235
+"Result = 24395" // app/Day12.php:261
+"Processing line ???????????????????# 1,2,1,2,3,1" // app/Day12.php:235
+"Result = 71513282179831" // app/Day12.php:261
+"Processing line ?.??.?????#??#??#?. 1,2,4,8" // app/Day12.php:235
+"Result = 16" // app/Day12.php:261
+"Processing line ??#??????#?#??? 3,2,1,4" // app/Day12.php:235
+"Result = 56534" // app/Day12.php:261
+"Processing line .????????.???????? 4,1,1,2,1" // app/Day12.php:235
+"Result = 322635422017" // app/Day12.php:261
+"Processing line ??????##?????????.?? 14,1" // app/Day12.php:235
+"Result = 3101675" // app/Day12.php:261
+"Processing line .????.???????? 1,7" // app/Day12.php:235
+"Result = 302632" // app/Day12.php:261
+"Processing line ??..?????##?.??#?? 2,7,4" // app/Day12.php:235
+"Result = 5184" // app/Day12.php:261
+"Processing line ?..#?..???? 2,3" // app/Day12.php:235
+"Result = 512" // app/Day12.php:261
+"Processing line .?.???.#???#?#????. 1,1,8" // app/Day12.php:235
+"Result = 4350912" // app/Day12.php:261
+"Processing line ?????.?.????????? 1,1,8" // app/Day12.php:235
+"Result = 445411092" // app/Day12.php:261
+"Processing line ??.??.??.#??? 1,2,1,4" // app/Day12.php:235
+"Result = 1024" // app/Day12.php:261
+"Processing line ???.?###???? 2,3,1" // app/Day12.php:235
+"Result = 60000" // app/Day12.php:261
+"Processing line ?#?????#???.????. 1,5,2" // app/Day12.php:235
+"Result = 5353626" // app/Day12.php:261
+"Processing line .????#??.?????#?. 4,4" // app/Day12.php:235
+"Result = 7776" // app/Day12.php:261
+"Processing line ???..?#?????.?. 2,3,3" // app/Day12.php:235
+"Result = 162" // app/Day12.php:261
+"Processing line ?##?.??.?#?????#? 4,1,4,3" // app/Day12.php:235
+"Result = 24576" // app/Day12.php:261
+"Processing line ?????..#????##?? 1,1,1,6" // app/Day12.php:235
+"Result = 4873200" // app/Day12.php:261
+"Processing line ?.??##???..?#?.???? 5,3" // app/Day12.php:235
+"Result = 243" // app/Day12.php:261
+"Processing line .????????#??????.?? 1,10,1" // app/Day12.php:235
+"Result = 350968288" // app/Day12.php:261
+"Processing line .#?.?????#??# 1,7" // app/Day12.php:235
+"Result = 16" // app/Day12.php:261
+"Processing line ?##?##???.???#. 6,1,1,1" // app/Day12.php:235
+"Result = 31002" // app/Day12.php:261
+"Processing line ?#??.#.?????#?#?. 1,1,1,1,6" // app/Day12.php:235
+"Result = 17223" // app/Day12.php:261
+"Processing line ?#?###??.#??##?? 7,5,1" // app/Day12.php:235
+"Result = 162" // app/Day12.php:261
+"Processing line .??#??????#?.?#????? 10,5" // app/Day12.php:235
+"Result = 1024" // app/Day12.php:261
+"Processing line ?#.#??????????#???# 2,2,1,3,3,1" // app/Day12.php:235
+"Result = 100000" // app/Day12.php:261
+"Processing line ???????????? 2,1,1,4" // app/Day12.php:235
+"Result = 53130" // app/Day12.php:261
+"Processing line .#?????##??#???# 1,5,1,3" // app/Day12.php:235
+"Result = 512" // app/Day12.php:261
+"Processing line ??..?.??????.?????. 2,3" // app/Day12.php:235
+"Result = 180659655" // app/Day12.php:261
+"Processing line ?#??.??????.#?#????? 2,3,3,1" // app/Day12.php:235
+"Result = 154909984" // app/Day12.php:261
+"Processing line ???#.????##???? 1,8" // app/Day12.php:235
+"Result = 1875" // app/Day12.php:261
+"Processing line ???????#???#?#??. 1,1,8,1,1" // app/Day12.php:235
+"Result = 81" // app/Day12.php:261
+"Processing line ??????.??? 5,1" // app/Day12.php:235
+"Result = 189536" // app/Day12.php:261
+"Processing line ?.?..??.#??#?#?? 1,1,1,7" // app/Day12.php:235
+"Result = 512" // app/Day12.php:261
+"Processing line .#??##??#??? 6,1,1" // app/Day12.php:235
+"Result = 328" // app/Day12.php:261
+"Processing line .?#.?...?? 2,1,1" // app/Day12.php:235
+"Result = 512" // app/Day12.php:261
+"Processing line ??#?##?#?????#???? 14,1" // app/Day12.php:235
+"Result = 29868" // app/Day12.php:261
+"Processing line ..?#?.?#.????#?? 2,2,4" // app/Day12.php:235
+"Result = 24576" // app/Day12.php:261
+"Processing line .???.????.????#?? 2,1,1,1,3" // app/Day12.php:235
+"Result = 1390855817" // app/Day12.php:261
+"Processing line #.???????#??##???# 1,1,1,9,1" // app/Day12.php:235
+"Result = 1024" // app/Day12.php:261
+"Processing line ??.???#?.. 2,5" // app/Day12.php:235
+"Result = 16" // app/Day12.php:261
+"Processing line ?#???#?.??????.???? 3,1,1,1,1,2" // app/Day12.php:235
+"Result = 37728289592" // app/Day12.php:261
+"Processing line .??#.???.#?#? 1,1,2,3" // app/Day12.php:235
+"Result = 512" // app/Day12.php:261
+"Processing line .?#?.#???#. 2,1,1" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line .?##?##?.?#..???.#?? 7,2,3,1,1" // app/Day12.php:235
+"Result = 16" // app/Day12.php:261
+"Processing line ?#????#??#??#.#.?. 1,9,1,1" // app/Day12.php:235
+"Result = 89" // app/Day12.php:261
+"Processing line ??.????????????? 2,1,1,2,4" // app/Day12.php:235
+"Result = 7737443" // app/Day12.php:261
+"Processing line ?.????????? 1,1,6" // app/Day12.php:235
+"Result = 768" // app/Day12.php:261
+"Processing line ????.#?????#??? 1,1,1,2,2" // app/Day12.php:235
+"Result = 487746110" // app/Day12.php:261
+"Processing line .??#??.#??.??.?? 1,1,1,2,2" // app/Day12.php:235
+"Result = 498347" // app/Day12.php:261
+"Processing line #????????#??# 1,1,3,1" // app/Day12.php:235
+"Result = 95793" // app/Day12.php:261
+"Processing line ???.?#??.##?? 3,3" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ?##?#####???. 8,2" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ????????????##???.?# 10,2,2,2" // app/Day12.php:235
+"Result = 162" // app/Day12.php:261
+"Processing line ??.?#.??????.? 1,1,1" // app/Day12.php:235
+"Result = 1465579030" // app/Day12.php:261
+"Processing line ?????#.##???.?#??? 3,2,5,3" // app/Day12.php:235
+"Result = 1250" // app/Day12.php:261
+"Processing line ???.?#????#?.? 1,8" // app/Day12.php:235
+"Result = 1875" // app/Day12.php:261
+"Processing line ?.##?#???.#??.?.? 6,1,1" // app/Day12.php:235
+"Result = 1875" // app/Day12.php:261
+"Processing line ???.??#?#???##.?.?? 2,4,4,1" // app/Day12.php:235
+"Result = 87846" // app/Day12.php:261
+"Processing line .#??##???#???? 6,4" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ??....???. 1,3" // app/Day12.php:235
+"Result = 162" // app/Day12.php:261
+"Processing line #??#??.?????? 5,1,2" // app/Day12.php:235
+"Result = 155616" // app/Day12.php:261
+"Processing line ??????.?#.??..??? 1,1,2,1,2" // app/Day12.php:235
+"Result = 7334641475" // app/Day12.php:261
+"Processing line #??.????????.#?. 3,1,1,4,2" // app/Day12.php:235
+"Result = 16" // app/Day12.php:261
+"Processing line #?.??.????? 1,1,4" // app/Day12.php:235
+"Result = 1024" // app/Day12.php:261
+"Processing line ?##?.?#.?? 2,1" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ?.?.##????.?. 1,1,6,1" // app/Day12.php:235
+"Result = 16" // app/Day12.php:261
+"Processing line ?????????? 1,1,1" // app/Day12.php:235
+"Result = 40225345056" // app/Day12.php:261
+"Processing line #???.?#?#????????..? 4,9,1,1" // app/Day12.php:235
+"Result = 243" // app/Day12.php:261
+"Processing line ????#???##??.? 6,2" // app/Day12.php:235
+"Result = 616" // app/Day12.php:261
+"Processing line ?##?????.#???# 3,2,5" // app/Day12.php:235
+"Result = 3125" // app/Day12.php:261
+"Processing line ???#???#.? 2,1,1" // app/Day12.php:235
+"Result = 26254" // app/Day12.php:261
+"Processing line ?.??????##.???.. 3,2" // app/Day12.php:235
+"Result = 28093" // app/Day12.php:261
+"Processing line ?#?.?????? 1,1,2" // app/Day12.php:235
+"Result = 1341645" // app/Day12.php:261
+"Processing line ???.?#?##???#???? 1,6,1,1" // app/Day12.php:235
+"Result = 31437475" // app/Day12.php:261
+"Processing line #?#.#.#..??.# 3,1,1,1" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line .??????????? 5,4" // app/Day12.php:235
+"Result = 3888" // app/Day12.php:261
+"Processing line ??#.?????##??? 3,2,2" // app/Day12.php:235
+"Result = 8112" // app/Day12.php:261
+"Processing line ????#?#???##???.??? 14,3" // app/Day12.php:235
+"Result = 162" // app/Day12.php:261
+"Processing line #.##????#?.#??.???? 1,7,1,2" // app/Day12.php:235
+"Result = 243" // app/Day12.php:261
+"Processing line ???#????#??????? 4,6,2" // app/Day12.php:235
+"Result = 791787" // app/Day12.php:261
+"Processing line ?.##?#?.?????##? 2,1,7" // app/Day12.php:235
+"Result = 512" // app/Day12.php:261
+"Processing line ??.????#?#?????.? 1,1,4,3" // app/Day12.php:235
+"Result = 65545305" // app/Day12.php:261
+"Processing line #.????.?#? 1,1,3" // app/Day12.php:235
+"Result = 1024" // app/Day12.php:261
+"Processing line .?#????##???.???? 1,7,2" // app/Day12.php:235
+"Result = 171288" // app/Day12.php:261
+"Processing line .#.?????#??##?# 1,11" // app/Day12.php:235
+"Result = 16" // app/Day12.php:261
+"Processing line ??????#??.#? 1,1,1,2" // app/Day12.php:235
+"Result = 1329841" // app/Day12.php:261
+"Processing line ??..#???.?? 2,1,1" // app/Day12.php:235
+"Result = 648352" // app/Day12.php:261
+"Processing line ??###??#???????.???# 12,1,3" // app/Day12.php:235
+"Result = 3660" // app/Day12.php:261
+"Processing line .?#??#.#??????#??#?? 4,1,1,3,1,1" // app/Day12.php:235
+"Result = 50000" // app/Day12.php:261
+"Processing line ??#??.????? 3,1,1" // app/Day12.php:235
+"Result = 42196463" // app/Day12.php:261
+"Processing line .?..?????#????#?##?? 2,10" // app/Day12.php:235
+"Result = 10816" // app/Day12.php:261
+"Processing line ?????????##??. 1,1,5" // app/Day12.php:235
+"Result = 202173340" // app/Day12.php:261
+"Processing line ?????#?#??#?????? 4,1,2,3" // app/Day12.php:235
+"Result = 2123744" // app/Day12.php:261
+"Processing line #????.???? 1,3,3" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ?.??#?????#?? 1,9" // app/Day12.php:235
+"Result = 7588" // app/Day12.php:261
+"Processing line ?...#.??##???? 1,1,4" // app/Day12.php:235
+"Result = 101839" // app/Day12.php:261
+"Processing line ?..?#.#????????.? 2,1,6,1" // app/Day12.php:235
+"Result = 2592" // app/Day12.php:261
+"Processing line #?#??#?.??????#??# 1,1,2,4,3,1" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ????#?????.?.?? 1,5,1,1,1" // app/Day12.php:235
+"Result = 1473150" // app/Day12.php:261
+"Processing line ????.??#?.#?.?? 4,1,1,2,1" // app/Day12.php:235
+"Result = 162" // app/Day12.php:261
+"Processing line ?????????.?###? 7,4" // app/Day12.php:235
+"Result = 14406" // app/Day12.php:261
+"Processing line .#?#?#.?.?.????? 3,1,1,1,2" // app/Day12.php:235
+"Result = 1125920" // app/Day12.php:261
+"Processing line ???##.?.##? 2,2" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ?#.?#.?#???##? 1,1,2,3" // app/Day12.php:235
+"Result = 1024" // app/Day12.php:261
+"Processing line ?.????#???? 1,2,5" // app/Day12.php:235
+"Result = 768" // app/Day12.php:261
+"Processing line ?.?##.??#???.???? 1,3,5,1,1" // app/Day12.php:235
+"Result = 24576" // app/Day12.php:261
+"Processing line ???..??##?? 2,4,1" // app/Day12.php:235
+"Result = 512" // app/Day12.php:261
+"Processing line .????.????. 2,4" // app/Day12.php:235
+"Result = 243" // app/Day12.php:261
+"Processing line ????####..#???.??? 7,3,3" // app/Day12.php:235
+"Result = 16" // app/Day12.php:261
+"Processing line ???#???.##?.??#?#? 1,1,1,3,5" // app/Day12.php:235
+"Result = 228488" // app/Day12.php:261
+"Processing line ??#??##?.? 1,3" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ??#??????? 2,2" // app/Day12.php:235
+"Result = 922292" // app/Day12.php:261
+"Processing line #??..??????? 2,4" // app/Day12.php:235
+"Result = 26491" // app/Day12.php:261
+"Processing line ?.??.?.???#??#?##?#? 1,1,1,10" // app/Day12.php:235
+"Result = 18436384" // app/Day12.php:261
+"Processing line ????.?#?.?#??#? 2,3,5" // app/Day12.php:235
+"Result = 14406" // app/Day12.php:261
+"Processing line ?????????????#.?? 5,1,1,4,1" // app/Day12.php:235
+"Result = 1250" // app/Day12.php:261
+"Processing line ?#?..?#.?.?? 2,2,2" // app/Day12.php:235
+"Result = 162" // app/Day12.php:261
+"Processing line ..#.?????? 1,4" // app/Day12.php:235
+"Result = 768" // app/Day12.php:261
+"Processing line ?.??##??????..??? 6,2" // app/Day12.php:235
+"Result = 455625" // app/Day12.php:261
+"Processing line ??????#???? 3,1,1" // app/Day12.php:235
+"Result = 21519058" // app/Day12.php:261
+"Processing line .?????????#???# 10,1,1" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ????#?.#.?.???? 1,2,1,1,1" // app/Day12.php:235
+"Result = 1225550095" // app/Day12.php:261
+"Processing line ?.#??.????#. 1,2,3,1" // app/Day12.php:235
+"Result = 16" // app/Day12.php:261
+"Processing line ??.#????.??#?????#?? 1,1,1,9" // app/Day12.php:235
+"Result = 67063874" // app/Day12.php:261
+"Processing line ???.????#..???. 1,1,5,1" // app/Day12.php:235
+"Result = 85683" // app/Day12.php:261
+"Processing line #???????#. 1,2,1" // app/Day12.php:235
+"Result = 18514" // app/Day12.php:261
+"Processing line ??????#???#?##?#? 1,1,1,7" // app/Day12.php:235
+"Result = 3947081" // app/Day12.php:261
+"Processing line ??.?###???.?? 1,4,1,2" // app/Day12.php:235
+"Result = 39366" // app/Day12.php:261
+"Processing line .??#?#?..???#.??### 3,1,4,4" // app/Day12.php:235
+"Result = 16" // app/Day12.php:261
+"Processing line .?###???.??#... 6,3" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ?#?.??????#?###?#?? 2,7,7" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ?#??????.??????.. 7,1,1,1" // app/Day12.php:235
+"Result = 6567040" // app/Day12.php:261
+"Processing line .??????.??.???#?.# 1,1,1,2,2,1" // app/Day12.php:235
+"Result = 1989974400" // app/Day12.php:261
+"Processing line ???.??.#???? 1,1,1,1" // app/Day12.php:235
+"Result = 1255703620" // app/Day12.php:261
+"Processing line ???#???#??.?????? 1,1,4,2,1" // app/Day12.php:235
+"Result = 91631368" // app/Day12.php:261
+"Processing line #?#.??#?#???#??? 3,1,1,1,3" // app/Day12.php:235
+"Result = 3952" // app/Day12.php:261
+"Processing line ?#????????.#..????? 4,1,1,1,4" // app/Day12.php:235
+"Result = 30551202" // app/Day12.php:261
+"Processing line ??..???.?.? 1,3,1" // app/Day12.php:235
+"Result = 9604" // app/Day12.php:261
+"Processing line .????...??#????#.?. 2,1,1" // app/Day12.php:235
+"Result = 1164609" // app/Day12.php:261
+"Processing line ?????#??????#???? 6,7" // app/Day12.php:235
+"Result = 591901" // app/Day12.php:261
+"Processing line ?.??#?#???? 1,5,2" // app/Day12.php:235
+"Result = 768" // app/Day12.php:261
+"Processing line ?..??#.???? 3,2" // app/Day12.php:235
+"Result = 3102" // app/Day12.php:261
+"Processing line ???##???##??#? 1,2,5" // app/Day12.php:235
+"Result = 512" // app/Day12.php:261
+"Processing line ?.????????.#??#?.? 1,8,1,1,1" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line #??#????###?.???.? 5,6,1,1" // app/Day12.php:235
+"Result = 5184" // app/Day12.php:261
+"Processing line ????#?#?#?#???.??# 13,2" // app/Day12.php:235
+"Result = 162" // app/Day12.php:261
+"Processing line ???#?#??#?? 3,4" // app/Day12.php:235
+"Result = 162" // app/Day12.php:261
+"Processing line ??..?#???#????..? 1,4" // app/Day12.php:235
+"Result = 243" // app/Day12.php:261
+"Processing line ??#..?.????.???? 1,1,3,1,1" // app/Day12.php:235
+"Result = 7375872" // app/Day12.php:261
+"Processing line ?#??..??.???????.? 3,1,2,2,1" // app/Day12.php:235
+"Result = 165818254" // app/Day12.php:261
+"Processing line ?????#???? 2,3,1" // app/Day12.php:235
+"Result = 735804" // app/Day12.php:261
+"Processing line ????#?#???.?#.#?#??? 1,6,1,1,6" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line #?##?#?#??????. 4,1,1,4" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line #?#.???#??? 3,2" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line .??.??.???#?#.?.? 1,3" // app/Day12.php:235
+"Result = 54504" // app/Day12.php:261
+"Processing line ???#?????#?? 1,3,1,1" // app/Day12.php:235
+"Result = 1661176" // app/Day12.php:261
+"Processing line .???????#? 4,2" // app/Day12.php:235
+"Result = 3125" // app/Day12.php:261
+"Processing line ???#?????.?????.. 1,4,1,1,2" // app/Day12.php:235
+"Result = 23597328" // app/Day12.php:261
+"Processing line ???????????#?# 2,1,5" // app/Day12.php:235
+"Result = 64641108" // app/Day12.php:261
+"Processing line ?.???.??..????.?.. 2,2" // app/Day12.php:235
+"Result = 17811751" // app/Day12.php:261
+"Processing line ???.?????#?.????? 1,1,1,4,3" // app/Day12.php:235
+"Result = 9437184" // app/Day12.php:261
+"Processing line ??.??????#???.?? 2,1,1,4,1" // app/Day12.php:235
+"Result = 64173501" // app/Day12.php:261
+"Processing line ??#??.#.?.?##?#??? 4,1,1,7" // app/Day12.php:235
+"Result = 5184" // app/Day12.php:261
+"Processing line ?#???#?.???#??.#??#? 6,3,4" // app/Day12.php:235
+"Result = 7776" // app/Day12.php:261
+"Processing line ??#?.?????????. 4,2,2,2" // app/Day12.php:235
+"Result = 16384" // app/Day12.php:261
+"Processing line ??#????...##? 5,2" // app/Day12.php:235
+"Result = 768" // app/Day12.php:261
+"Processing line ?#???##.??.???#?#. 6,1,5" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ????????#???#??.? 3,10" // app/Day12.php:235
+"Result = 19683" // app/Day12.php:261
+"Processing line ???.?#??.???##? 2,2,4" // app/Day12.php:235
+"Result = 243392" // app/Day12.php:261
+"Processing line ?..?????## 1,6" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line #??#.#?##???#?? 1,2,1,3,3" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ?##.????##?.?##. 3,3,3,3" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ???.???..#??..?.?#? 2,1,1,1,1,2" // app/Day12.php:235
+"Result = 23718420" // app/Day12.php:261
+"Processing line ?#?##????#? 1,8" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line .??#??#?##?## 1,1,8" // app/Day12.php:235
+"Result = 16" // app/Day12.php:261
+"Processing line .#??..????..#.????? 1,1,1,1,1,5" // app/Day12.php:235
+"Result = 3888" // app/Day12.php:261
+"Processing line ???????.?#??# 5,3,1" // app/Day12.php:235
+"Result = 243" // app/Day12.php:261
+"Processing line #???#...?? 5,1" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line .???###??????? 5,1" // app/Day12.php:235
+"Result = 2744631" // app/Day12.php:261
+"Processing line ?#?.?#?..#?#?#???? 1,2,1,1,2,1" // app/Day12.php:235
+"Result = 5184" // app/Day12.php:261
+"Processing line #??#???.?????.??? 6,3,1,1,1" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ????#??.?. 1,2,1" // app/Day12.php:235
+"Result = 596276" // app/Day12.php:261
+"Processing line ????.??#.?.???#??? 1,1,2,1,1,3" // app/Day12.php:235
+"Result = 6418692" // app/Day12.php:261
+"Processing line #.???????##?????? 1,10,1,1" // app/Day12.php:235
+"Result = 1024" // app/Day12.php:261
+"Processing line ?.??.???##???#.? 2,8" // app/Day12.php:235
+"Result = 81" // app/Day12.php:261
+"Processing line ?.#???.??#?? 3,2,1" // app/Day12.php:235
+"Result = 625" // app/Day12.php:261
+"Processing line ?#?.?#???. 2,4" // app/Day12.php:235
+"Result = 1024" // app/Day12.php:261
+"Processing line .???.#?..?#???##???? 1,2,2,7" // app/Day12.php:235
+"Result = 1138866" // app/Day12.php:261
+"Processing line ?#???????? 3,4" // app/Day12.php:235
+"Result = 25699" // app/Day12.php:261
+"Processing line ?#???.?#?? 1,2,4" // app/Day12.php:235
+"Result = 16" // app/Day12.php:261
+"Processing line ?????#.??? 6,2" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ??.???.?#? 1,2,2" // app/Day12.php:235
+"Result = 80000" // app/Day12.php:261
+"Processing line ..#?????????#.?#?#?# 5,4,5" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line #????#??#???? 2,1,4" // app/Day12.php:235
+"Result = 13731" // app/Day12.php:261
+"Processing line ..??.???.???#??? 2,7" // app/Day12.php:235
+"Result = 3888" // app/Day12.php:261
+"Processing line ??#??..??.???.?? 5,1,1,1" // app/Day12.php:235
+"Result = 12663160" // app/Day12.php:261
+"Processing line .?#??#?#.?..#?#.? 7,3" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ...?#?#?????#.?#? 2,7,2" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ??..???.?????????.? 2,2,1,4" // app/Day12.php:235
+"Result = 1499476267" // app/Day12.php:261
+"Processing line ???.?#???.? 1,3" // app/Day12.php:235
+"Result = 112744" // app/Day12.php:261
+"Processing line ?#?#?.???##???# 3,5,2" // app/Day12.php:235
+"Result = 1250" // app/Day12.php:261
+"Processing line ##?#.?##?.#? 4,3,2" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line .?????##?# 1,5,1" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ?.???#??#?#?? 1,7" // app/Day12.php:235
+"Result = 37613" // app/Day12.php:261
+"Processing line .????##??????.? 12,1" // app/Day12.php:235
+"Result = 16" // app/Day12.php:261
+"Processing line ???????.?.? 1,3" // app/Day12.php:235
+"Result = 5313228" // app/Day12.php:261
+"Processing line ?#.???##????..???#?. 2,6,1,4" // app/Day12.php:235
+"Result = 7776" // app/Day12.php:261
+"Processing line #???##?#..?????. 1,5,1,1" // app/Day12.php:235
+"Result = 7776" // app/Day12.php:261
+"Processing line #??##.???.????.? 1,3,1,1" // app/Day12.php:235
+"Result = 6436343" // app/Day12.php:261
+"Processing line ?.????#..??#??? 3,2" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line .??????#??... 4,1" // app/Day12.php:235
+"Result = 53028" // app/Day12.php:261
+"Processing line .???#.?.??? 2,1" // app/Day12.php:235
+"Result = 30935" // app/Day12.php:261
+"Processing line ?#??#??#?#????##?? 2,1,11" // app/Day12.php:235
+"Result = 1024" // app/Day12.php:261
+"Processing line .?#???..?.??.... 3,1,2" // app/Day12.php:235
+"Result = 243" // app/Day12.php:261
+"Processing line ???#??#??????#??? 1,2,2,3,4" // app/Day12.php:235
+"Result = 13201" // app/Day12.php:261
+"Processing line .###?????###.???? 11,4" // app/Day12.php:235
+"Result = 16" // app/Day12.php:261
+"Processing line #?#?..#?#???#??????? 4,7,1,1" // app/Day12.php:235
+"Result = 655360" // app/Day12.php:261
+"Processing line ????????????#?.. 6,3" // app/Day12.php:235
+"Result = 230025" // app/Day12.php:261
+"Processing line .#.??..????. 1,1,2,1" // app/Day12.php:235
+"Result = 75076" // app/Day12.php:261
+"Processing line ?.#??#?#?#?#.?? 1,8,1" // app/Day12.php:235
+"Result = 3179" // app/Day12.php:261
+"Processing line .???#??##?????. 1,9" // app/Day12.php:235
+"Result = 39315" // app/Day12.php:261
+"Processing line #???????#? 2,1,3" // app/Day12.php:235
+"Result = 20255" // app/Day12.php:261
+"Processing line ???#?#.?.?.???? 3,1,1,2" // app/Day12.php:235
+"Result = 25731216" // app/Day12.php:261
+"Processing line .##???#??.??.#???# 8,5" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line #?##??????????? 1,7,1" // app/Day12.php:235
+"Result = 13056636" // app/Day12.php:261
+"Processing line ??????????.??.?#? 7,1,1,3" // app/Day12.php:235
+"Result = 24576" // app/Day12.php:261
+"Processing line #????#????##?????? 13,1,1" // app/Day12.php:235
+"Result = 2403" // app/Day12.php:261
+"Processing line #??#????.?.?.?? 1,6,1,1" // app/Day12.php:235
+"Result = 344128" // app/Day12.php:261
+"Processing line ?#??###???#? 1,8" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ?????#..?? 2,3,1" // app/Day12.php:235
+"Result = 162" // app/Day12.php:261
+"Processing line .??????.??????. 1,1,5" // app/Day12.php:235
+"Result = 20971520" // app/Day12.php:261
+"Processing line ???.?..???. 2,1" // app/Day12.php:235
+"Result = 1768360" // app/Day12.php:261
+"Processing line ???????#???##?#?? 3,2,5" // app/Day12.php:235
+"Result = 2763674" // app/Day12.php:261
+"Processing line ??????##??# 1,3,1" // app/Day12.php:235
+"Result = 59049" // app/Day12.php:261
+"Processing line #??..?#???. 3,5" // app/Day12.php:235
+"Result = 16" // app/Day12.php:261
+"Processing line ??#??#??#?#???#????? 15,1" // app/Day12.php:235
+"Result = 190044" // app/Day12.php:261
+"Processing line ??.???.???###? 2,3" // app/Day12.php:235
+"Result = 2500" // app/Day12.php:261
+"Processing line ?????????.???#. 2,5,3" // app/Day12.php:235
+"Result = 3888" // app/Day12.php:261
+"Processing line .???????..??#? 1,1,1,2" // app/Day12.php:235
+"Result = 277596931" // app/Day12.php:261
+"Processing line ????#?#.?.???.?? 6,1,1,1,1" // app/Day12.php:235
+"Result = 30367" // app/Day12.php:261
+"Processing line ?.??????.?.## 1,4,1,2" // app/Day12.php:235
+"Result = 3125" // app/Day12.php:261
+"Processing line ?#??#?#?.##??#?##??? 1,3,11" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ????##???.. 1,2,1" // app/Day12.php:235
+"Result = 87846" // app/Day12.php:261
+"Processing line ????.?.????#????#?#? 3,1,1,1,1,3" // app/Day12.php:235
+"Result = 345107920" // app/Day12.php:261
+"Processing line ???.?.????#??.? 1,6" // app/Day12.php:235
+"Result = 165888" // app/Day12.php:261
+"Processing line ??##??????# 6,1,1" // app/Day12.php:235
+"Result = 243" // app/Day12.php:261
+"Processing line ??.?.????##?????. 2,1,2,2" // app/Day12.php:235
+"Result = 65795968" // app/Day12.php:261
+"Processing line ???...??????? 2,1" // app/Day12.php:235
+"Result = 651621788" // app/Day12.php:261
+"Processing line .?????###???.????.. 9,1" // app/Day12.php:235
+"Result = 1069636" // app/Day12.php:261
+"Processing line ??.?#?.?.?##. 1,3" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ??#???#.??.# 1,5,1" // app/Day12.php:235
+"Result = 197" // app/Day12.php:261
+"Processing line ??.????????? 1,5" // app/Day12.php:235
+"Result = 20189920" // app/Day12.php:261
+"Processing line ???#???.?.#??????.?# 6,1,1,3,1,2" // app/Day12.php:235
+"Result = 162" // app/Day12.php:261
+"Processing line ?????#.???##??.?. 1,1,1,7,1" // app/Day12.php:235
+"Result = 7203" // app/Day12.php:261
+"Processing line ?.??#?#??#?..?#??. 1,4,2,2,1" // app/Day12.php:235
+"Result = 58564" // app/Day12.php:261
+"Processing line ????????#????#??.?. 2,10" // app/Day12.php:235
+"Result = 204228" // app/Day12.php:261
+"Processing line ????##???#???.???? 5,3,3" // app/Day12.php:235
+"Result = 2898012" // app/Day12.php:261
+"Processing line #.#.?##??#?????#? 1,1,7,1,1" // app/Day12.php:235
+"Result = 243" // app/Day12.php:261
+"Processing line #?????##??????? 1,1,6,1" // app/Day12.php:235
+"Result = 7666246" // app/Day12.php:261
+"Processing line #.??#?.??..#.??#..?? 1,4,1,1,3,1" // app/Day12.php:235
+"Result = 1024" // app/Day12.php:261
+"Processing line #???#?#??#.?##? 1,5,1,2" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line #.?##???#.?.??#. 1,6,1,1,1" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ???.?.???? 1,1,1" // app/Day12.php:235
+"Result = 1910434271" // app/Day12.php:261
+"Processing line ?#?#???.?? 4,1,1" // app/Day12.php:235
+"Result = 25894" // app/Day12.php:261
+"Processing line ###?##?..???##?? 6,2" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ?.#.?#??####???#?. 1,8,2" // app/Day12.php:235
+"Result = 1024" // app/Day12.php:261
+"Processing line #??.????#??? 1,1,3,2" // app/Day12.php:235
+"Result = 14752" // app/Day12.php:261
+"Processing line #?#??..#????#?? 1,1,1,1,3" // app/Day12.php:235
+"Result = 18282" // app/Day12.php:261
+"Processing line .???#?#???# 2,5,1" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ?#?##???.???? 4,1,1" // app/Day12.php:235
+"Result = 1341551" // app/Day12.php:261
+"Processing line ?#?.???##??#??????? 2,8,1,1" // app/Day12.php:235
+"Result = 381552644" // app/Day12.php:261
+"Processing line ?????.???????.??##?? 2,1,6,3" // app/Day12.php:235
+"Result = 12582912" // app/Day12.php:261
+"Processing line ..????.#?#?? 2,4" // app/Day12.php:235
+"Result = 243" // app/Day12.php:261
+"Processing line .?#???????#.??? 1,1,2,1,1" // app/Day12.php:235
+"Result = 68136132" // app/Day12.php:261
+"Processing line ??#?..#?#??..????? 2,4,4" // app/Day12.php:235
+"Result = 9604" // app/Day12.php:261
+"Processing line ??.?.?..?? 2,1" // app/Day12.php:235
+"Result = 117868" // app/Day12.php:261
+"Processing line #??#???##??.??#? 5,5,2" // app/Day12.php:235
+"Result = 512" // app/Day12.php:261
+"Processing line ???#????.???? 5,1,1" // app/Day12.php:235
+"Result = 150050949" // app/Day12.php:261
+"Processing line #???.??#?##?#.#..? 2,1,1,6,1,1" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line .?#?##????????.? 1,3,2,1" // app/Day12.php:235
+"Result = 720896" // app/Day12.php:261
+"Processing line .#?#??.?.? 4,1" // app/Day12.php:235
+"Result = 162" // app/Day12.php:261
+"Processing line ??.???#?????????? 1,11" // app/Day12.php:235
+"Result = 794699" // app/Day12.php:261
+"Processing line .###????###????. 3,6,1" // app/Day12.php:235
+"Result = 60000" // app/Day12.php:261
+"Processing line ??#????.?##? 4,3" // app/Day12.php:235
+"Result = 14406" // app/Day12.php:261
+"Processing line ???.?###???# 1,8" // app/Day12.php:235
+"Result = 1875" // app/Day12.php:261
+"Processing line ???.???.#???#?.? 1,1,5,1" // app/Day12.php:235
+"Result = 3649536" // app/Day12.php:261
+"Processing line ??##????????#?? 5,2,3" // app/Day12.php:235
+"Result = 6715791" // app/Day12.php:261
+"Processing line #?#?#????#?##..#???? 1,1,9,1,2" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line #??.##???.??? 1,2,1,1" // app/Day12.php:235
+"Result = 145152" // app/Day12.php:261
+"Processing line ?..#?????. 1,3,1" // app/Day12.php:235
+"Result = 512" // app/Day12.php:261
+"Processing line .???#?#??##????#??? 12,2" // app/Day12.php:235
+"Result = 3539" // app/Day12.php:261
+"Processing line #??????.??#? 7,3" // app/Day12.php:235
+"Result = 162" // app/Day12.php:261
+"Processing line ??#.?#?.#????#?.# 2,1,2,3,1" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ?#?.?.???????? 2,7" // app/Day12.php:235
+"Result = 2500" // app/Day12.php:261
+"Processing line ??.??#?#?.????????? 1,4,9" // app/Day12.php:235
+"Result = 50000" // app/Day12.php:261
+"Processing line .??.???##? 2,1,2" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line .??????#.?.?????. 1,1,1,1" // app/Day12.php:235
+"Result = 2208272604804" // app/Day12.php:261
+"Processing line ???#.???#???#..? 1,1,8,1" // app/Day12.php:235
+"Result = 162" // app/Day12.php:261
+"Processing line .????#???? 1,1,1" // app/Day12.php:235
+"Result = 10952456" // app/Day12.php:261
+"Processing line ?#.??.??????????#.? 1,1,2,5,1" // app/Day12.php:235
+"Result = 58533908" // app/Day12.php:261
+"Processing line ?.?.???.?. 1,1" // app/Day12.php:235
+"Result = 36012258" // app/Day12.php:261
+"Processing line ???.?.#???????#?#?#. 1,1,1,7,1,3" // app/Day12.php:235
+"Result = 81" // app/Day12.php:261
+"Processing line ??.?????#??## 1,1,1,2" // app/Day12.php:235
+"Result = 161051" // app/Day12.php:261
+"Processing line .????????? 3,2" // app/Day12.php:235
+"Result = 1373408" // app/Day12.php:261
+"Processing line #?????????#????#. 6,4,2" // app/Day12.php:235
+"Result = 3888" // app/Day12.php:261
+"Processing line #??.?##???.??? 1,3,1,2" // app/Day12.php:235
+"Result = 171366" // app/Day12.php:261
+"Processing line ??.???##?#? 4,2" // app/Day12.php:235
+"Result = 171" // app/Day12.php:261
+"Processing line ?#.?????.?.??#?.?. 1,2,1,1,4,1" // app/Day12.php:235
+"Result = 3888" // app/Day12.php:261
+"Processing line ?????..??.?? 1,1,1,1" // app/Day12.php:235
+"Result = 1247751300" // app/Day12.php:261
+"Processing line #???#???#???? 2,1,5" // app/Day12.php:235
+"Result = 4051" // app/Day12.php:261
+"Processing line ?.???..?????.?? 3,5" // app/Day12.php:235
+"Result = 81" // app/Day12.php:261
+"Processing line ??#..#?????????? 3,1,2,3" // app/Day12.php:235
+"Result = 381420" // app/Day12.php:261
+"Processing line #?????###???..?#? 1,1,4,1,1" // app/Day12.php:235
+"Result = 25052" // app/Day12.php:261
+"Processing line ?##?#?.#?#? 5,4" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ?##???#??..#??#? 9,1,1" // app/Day12.php:235
+"Result = 16" // app/Day12.php:261
+"Processing line ???#???##??????. 4,4" // app/Day12.php:235
+"Result = 7776" // app/Day12.php:261
+"Processing line ??#???#??#.???#? 3,4,1,1,1" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ?#?#??.?##?#??#?. 5,8" // app/Day12.php:235
+"Result = 5184" // app/Day12.php:261
+"Processing line ?.???.?#???.????.. 1,1,5,3" // app/Day12.php:235
+"Result = 307328" // app/Day12.php:261
+"Processing line .???.?.?#??? 2,1,1,1" // app/Day12.php:235
+"Result = 16384" // app/Day12.php:261
+"Processing line ###?.????.?????? 3,1,1,1,1" // app/Day12.php:235
+"Result = 205962976" // app/Day12.php:261
+"Processing line ????#??#???.?##???? 2,2,2,5" // app/Day12.php:235
+"Result = 1629862" // app/Day12.php:261
+"Processing line ???????#.?.?#? 1,4,1,1" // app/Day12.php:235
+"Result = 78621" // app/Day12.php:261
+"Processing line ???????##?##?????#. 11,1,1" // app/Day12.php:235
+"Result = 950148" // app/Day12.php:261
+"Processing line .???#.?#?????### 1,2,1,1,5" // app/Day12.php:235
+"Result = 81" // app/Day12.php:261
+"Processing line ??????#????#..?? 8,1,1" // app/Day12.php:235
+"Result = 314976" // app/Day12.php:261
+"Processing line #?????#?..???.#? 8,2,1" // app/Day12.php:235
+"Result = 512" // app/Day12.php:261
+"Processing line ???#???##???? 1,3,2,2" // app/Day12.php:235
+"Result = 60000" // app/Day12.php:261
+"Processing line ???????#????.??? 5,1,1,1" // app/Day12.php:235
+"Result = 14201220458" // app/Day12.php:261
+"Processing line ?##..???#?? 3,5" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line .??????#????.? 7,1" // app/Day12.php:235
+"Result = 1804451" // app/Day12.php:261
+"Processing line ?#?#?#???.??#??.?? 8,3" // app/Day12.php:235
+"Result = 124416" // app/Day12.php:261
+"Processing line ?????##???#? 5,1" // app/Day12.php:235
+"Result = 243" // app/Day12.php:261
+"Processing line ??#?.??????#.?? 3,2,1,2,1" // app/Day12.php:235
+"Result = 2500" // app/Day12.php:261
+"Processing line .#?????.???..???..?. 5,2" // app/Day12.php:235
+"Result = 1024" // app/Day12.php:261
+"Processing line ????#??????? 5,1" // app/Day12.php:235
+"Result = 14758831" // app/Day12.php:261
+"Processing line ?.?#??#?###?# 1,10" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ????#?????.#??..? 5,3" // app/Day12.php:235
+"Result = 3125" // app/Day12.php:261
+"Processing line ???#?#??.? 2,1,1" // app/Day12.php:235
+"Result = 3556" // app/Day12.php:261
+"Processing line .????.???#??? 3,1,3" // app/Day12.php:235
+"Result = 24576" // app/Day12.php:261
+"Processing line #?#?#????????. 1,1,1,6" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line #.?##?#???##??#???? 1,5,2,1,1" // app/Day12.php:235
+"Result = 7776" // app/Day12.php:261
+"Processing line ????.##??#???#??#? 1,9,2" // app/Day12.php:235
+"Result = 52488" // app/Day12.php:261
+"Processing line ???#?#?#?#?.?# 8,2,1" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ??#???#????#????#?.? 9,5,2" // app/Day12.php:235
+"Result = 6561" // app/Day12.php:261
+"Processing line #.????????#?. 1,1,1,2" // app/Day12.php:235
+"Result = 27806313" // app/Day12.php:261
+"Processing line ?????..????.???#?. 5,2,3" // app/Day12.php:235
+"Result = 124416" // app/Day12.php:261
+"Processing line ????.??.?#.? 1,1,1,1" // app/Day12.php:235
+"Result = 66192896" // app/Day12.php:261
+"Processing line ???#??#?.??? 4,1" // app/Day12.php:235
+"Result = 13645" // app/Day12.php:261
+"Processing line ???#???#?#??#?????? 1,1,4,2,1,1" // app/Day12.php:235
+"Result = 328612107" // app/Day12.php:261
+"Processing line .?##??..?. 2,1" // app/Day12.php:235
+"Result = 162" // app/Day12.php:261
+"Processing line ?#####?????#??.??? 13,2" // app/Day12.php:235
+"Result = 5184" // app/Day12.php:261
+"Processing line ???.#??#?#??#??. 1,1,7" // app/Day12.php:235
+"Result = 64974" // app/Day12.php:261
+"Processing line .???#?????#?#??.?#?# 12,3" // app/Day12.php:235
+"Result = 243" // app/Day12.php:261
+"Processing line ?...#...##. 1,2" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ?.#????????.#?.?.?? 5,2,1,1,1" // app/Day12.php:235
+"Result = 2144380" // app/Day12.php:261
+"Processing line ?#???..#??? 3,1" // app/Day12.php:235
+"Result = 162" // app/Day12.php:261
+"Processing line ??.#?????????????#?? 1,1,6,1,1,1" // app/Day12.php:235
+"Result = 1969393104" // app/Day12.php:261
+"Processing line ?.?..??#?..????? 1,1,4,1,3" // app/Day12.php:235
+"Result = 1" // app/Day12.php:261
+"Processing line ???.??.?#??.#.? 3,1,2,1,1" // app/Day12.php:235
+"Result = 107616" // app/Day12.php:261
+"Processing line ?#?##??????#??? 1,2,3,3,1" // app/Day12.php:235
+"Result = 256" // app/Day12.php:261
+"Processing line ?#???.?.?#??.?#? 3,1,3,1" // app/Day12.php:235
+"Result = 124416" // app/Day12.php:261
+"Processing line ##??.???.? 3,1" // app/Day12.php:235
+"Result = 15124" // app/Day12.php:261
+"Processing line .?.??????? 1,3" // app/Day12.php:235
+"Result = 2849904" // app/Day12.php:261
+"Processing line ?????#?#??.?????## 1,1,1,1,1,6" // app/Day12.php:235
+"Result = 37415" // app/Day12.php:261
+"Processing line ..????.??..?? 1,2,1,1" // app/Day12.php:235
+"Result = 811504" // app/Day12.php:261
+"Processing line ??#??.??#????? 4,4,1" // app/Day12.php:235
+"Result = 1259712" // app/Day12.php:261
+"Processing line ??.??.???#?? 1,3" // app/Day12.php:235
+"Result = 1849920" // app/Day12.php:261
+"Processing line ?????#?#???#? 1,1,3,1" // app/Day12.php:235
+"Result = 594289" // app/Day12.php:261
+"Processing line ??.?..##???? 1,3" // app/Day12.php:235
+"Result = 3888" // app/Day12.php:261
+"Processing line .?.???.#?? 1,1,1" // app/Day12.php:235
+"Result = 2895978" // app/Day12.php:261
+"Processing line ?#????##??##???.#??# 4,2,6,1,1" // app/Day12.php:235
+"Result = 32" // app/Day12.php:261
+"Processing line ??.#?#?.???##...???? 1,4,4,3" // app/Day12.php:235
+"Result = 5184" // app/Day12.php:261
+"Processing line ??.?#???.??? 4,1" // app/Day12.php:235
+"Result = 141822" // app/Day12.php:261
+"Processing line ?#???#?.#???? 6,1,1" // app/Day12.php:235
+"Result = 18046" // app/Day12.php:261
